@@ -551,6 +551,17 @@
       "has_full_text": false
     },
     {
+      "id": "ed5d9e7fe648",
+      "title": "Nuclear power: A renaissance in the making",
+      "url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-06-30T00:00:00+00:00",
+      "summary": "The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.",
+      "has_full_text": false
+    },
+    {
       "id": "c49b33e62b10",
       "title": "“被投资人怒怼30分钟后，我更确定中国To B的答案” | 甲子光年",
       "url": "https://www.jazzyear.com/article_info.html?id=1578",
@@ -628,6 +639,83 @@
       "has_full_text": true
     },
     {
+      "id": "8bb4a987704d",
+      "title": "DeepSeek还有多少个“郭达雅”？扒完27篇论文，我们发现了一群“多边形战士”",
+      "url": "https://www.jazzyear.com/article_info.html?id=1783",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "79位跨方向骨干、87%的初代留存率，和一套让年轻人围绕问题自由组队的机制。\n过去一年，围绕DeepSeek的人才流动消息一直没有停。从早期罗福莉离职，到初代大模型作者王炳宣、多模态骨干阮翀、R1核心作者郭达雅，相继跳槽。\n核心作者接连被挖，DeepSeek的技术壁垒会不会松动？\n我们决定换一种方式来看这个问题。\n我们用Codex和Python，梳理了DeepSeek近两年发布的27篇核心论文和技术报告，逐篇拆解署名作者。对DeepSeek V2、V3、V3.2、V4这类可拆分角色的大型技术报告，只保留Research & Engineering名单；其余论文使用原始署名名单。最终，得到一份包",
+      "has_full_text": true
+    },
+    {
+      "id": "ac4a83c41f1c",
+      "title": "“人机共生，产需共融” 2026世界机器人大会新闻发布会在京召开",
+      "url": "https://www.jazzyear.com/article_info.html?id=1795",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "2026世界机器人大会新闻发布会\n徐晓兰讲话\n徐晓兰表示，习近平总书记在2014年两院院士大会上深刻指出，“机器人是‘制造业皇冠顶端的明珠’，其研发、制造、应用是衡量一个国家科技创新和高端制造业水平的重要标志。”为贯彻落实总书记重要讲话精神，在工业和信息化部、北京市人民政府、中国科协的大力支持下，中国电子学会于2015年11月在京举办了首届世界机器人大会。习近平总书记在致首届大会的贺信中强调，“我们愿加强同各国科技界、产业界的合作，推动机器人科技研发和产业化进程，使机器人科技及其产品更好为推动发展、造福人民服务。”这为我国加快发展机器人产业指明了方向、提供了遵循。\n徐晓兰强调，十余年来，我国机",
+      "has_full_text": true
+    },
+    {
+      "id": "2ab61c844eaa",
+      "title": "一次Token调用，如何创造更多实际价值？我试了试云知声U2大模型",
+      "url": "https://www.jazzyear.com/article_info.html?id=1776",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "推荐视频\n                        更多\n                    \n                    \n                一次Token调用，如何创造更多实际价值？我试了试云知声U2大模型\n                \n            - \n                        \n                        38820\n- \n                        \n                        3925\n-",
+      "has_full_text": true
+    },
+    {
+      "id": "cf574049346b",
+      "title": "机器人“真干活”，为什么宁德时代选择了银河通用？",
+      "url": "https://www.jazzyear.com/article_info.html?id=1788",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "机器人进厂只是开始，银河通用与宁德时代要做的是交付闭环。\n作者｜王博\n宁王又有大动作。\n据宁德时代官方微信公众号消息，近日，宁德时代与银河通用机器人正式签署全球战略合作协议。双方将聚焦智慧产线升级，推动具身智能机器人在全球市场的拓展以及规模化应用，并联合制定全球首个具身智能后市场服务标准。\n宁德时代与银河通用机器人正式签署全球战略合作协议，图片来源：宁德时代\n作为目前唯一获宁德时代直接投资的具身智能企业，银河通用再度彰显领先实力——具身智能重载机器人Galbot S1不仅是唯一通过宁德时代验收的机器人，其更已在其电池工厂“零遥操”自主作业，常态化融入真实生产流程。\n当全球动力电池霸主宁德时代把",
+      "has_full_text": true
+    },
+    {
+      "id": "35eae397b8a9",
+      "title": "郝景芳谈AI与人性黑盒：AI没有潜台词，AI是最好的人性放大器",
+      "url": "https://www.jazzyear.com/article_info.html?id=1759",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "推荐视频\n                        更多\n                    \n                    \n                郝景芳谈AI与人性黑盒：AI没有潜台词，AI是最好的人性放大器\n                \n            - \n                        \n                        66390\n- \n                        \n                        7218\n-",
+      "has_full_text": true
+    },
+    {
+      "id": "4362a170947b",
+      "title": "Token经济来了，AI基础设施准备好了吗？",
+      "url": "https://www.jazzyear.com/article_info.html?id=1777",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-06-09T00:00:00+00:00",
+      "summary": "推荐视频\n                        更多\n                    \n                    \n                Token经济来了，AI基础设施准备好了吗？\n                \n            - \n                        \n                        35704\n- \n                        \n                        3913\n-",
+      "has_full_text": true
+    },
+    {
+      "id": "0685cd4be059",
+      "title": "2026年Agent领域十大趋势判断",
+      "url": "https://www.jazzyear.com/study_info.html?id=161",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-01-29T00:00:00+00:00",
+      "summary": "案例征集\n                        请附上公司简介、业务介绍等相关资料及联系方式，与我们联系。\n                    联系人：郑爽\n                        微信号：Carol_zs\n                        联系电话：18600502376\n                        联系邮箱：shuang.zheng@jazzyear.com\n                    \n                        关联推荐",
+      "has_full_text": true
+    },
+    {
       "id": "05a78b5c69fe",
       "title": "张一甲：2025人工智能产业30条判断",
       "url": "https://www.jazzyear.com/study_info.html?id=160",
@@ -636,6 +724,17 @@
       "via": "",
       "date": "2025-12-03T00:00:00+00:00",
       "summary": "2025人工智能产业30条判断\n1. 过去一年，AI发生了什么？\n2. 此刻：轰然成势，万象归一\n2.1 轰然成势，万象归一\n2.2 “轰然成势”，是能量的临界；“万象归一”，是秩序的自觉\n3. 定义：“默认式AI（Default AI）”\n3.1 概念定义：默认式AI（Default AI）\n“默认式AI”（Default AI）：无需用户主动选择或感知，默认存在、默认开启的人工智能形态。\n3.2 默认即智能：智能成为常态，AI走向日用而不觉\n3.3 默认式AI特征：关闭才是例外，不用才是例外，不会才是例外\n3.4 AI社会化三阶段：工具式AI→伴随式AI→默认式AI\n4. 2025年全球人",
+      "has_full_text": true
+    },
+    {
+      "id": "e688f44631f6",
+      "title": "2025中国Data&AI数据基础设施白皮书",
+      "url": "https://www.jazzyear.com/study_info.html?id=158",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2025-10-10T00:00:00+00:00",
+      "summary": "数据应用与人工智能从相互独立到逐渐融合，正走向一体化\n• 在数据作为生产要素被广泛认知后，数据应用和人工智能加速融合。高质量数据集的积累加快了大模型的成熟，大模型又反过来让各组织机构更好地发挥数据要素的生产力，开始从深度融合走向一体化。\n数据应用与人工智能的融合，推动架构与能力实现阶段跃迁\n• 第一阶段的感知智能主要依赖分类的非结构化数据，第二阶段生成式AI推动多类混合数据的治理体系发展完善，到了第三阶段的Agentic AI则对多模态数据融合与动态调度提出更高要求。数据应用与人工智能技术正从“AI+数据”的松散组合迈向“数据即AI、AI即平台”的深度融合阶段。\n• 新阶段需要一个AI原生的、",
       "has_full_text": true
     }
   ]
