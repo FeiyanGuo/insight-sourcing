@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}{{ week }} 周报 - {{ site.title }}{% endblock %}
+{% block content %}
+  <article class="article">
+    {{ content | safe }}
+  </article>
+  <p style="margin-top:16px;"><a href="digests.html">← 返回周报列表</a></p>
+{% endblock %}

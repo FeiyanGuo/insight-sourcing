@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>全部报告 - 洞察报告 Sourcing</title>
+<style>
+  :root{
+    --bg:#ffffff; --fg:#1f2937; --muted:#6b7280; --line:#e5e7eb;
+    --accent:#2563eb; --accent-soft:#eff6ff; --card:#fafafa;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+       color:var(--fg);background:var(--bg);line-height:1.6;}
+  a{color:var(--accent);text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  header.site{border-bottom:1px solid var(--line);padding:20px 24px;background:var(--accent-soft);}
+  header.site h1{margin:0;font-size:22px;}
+  header.site p{margin:4px 0 0;color:var(--muted);font-size:14px;}
+  nav.site{padding:10px 24px;border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10;}
+  nav.site a{margin-right:18px;font-size:15px;color:var(--fg);}
+  nav.site a:hover{color:var(--accent);}
+  main{max-width:960px;margin:0 auto;padding:24px;}
+  .card{border:1px solid var(--line);border-radius:10px;padding:16px;margin-bottom:14px;background:var(--card);}
+  .card h3{margin:0 0 6px;font-size:17px;}
+  .meta{color:var(--muted);font-size:13px;margin-bottom:8px;}
+  .tag{display:inline-block;background:var(--accent-soft);color:var(--accent);border-radius:999px;
+       padding:1px 10px;font-size:12px;margin-right:6px;}
+  .tag.wechat{background:#fef2f2;color:#dc2626;}
+  .row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px;}
+  .btn{display:inline-block;background:var(--accent);color:#fff;padding:8px 14px;border-radius:8px;font-size:14px;}
+  .btn:hover{opacity:.9;text-decoration:none;}
+  select{padding:6px 10px;border:1px solid var(--line);border-radius:8px;font-size:14px;}
+  .article{background:#fff;border:1px solid var(--line);border-radius:10px;padding:24px;}
+  .article h1{font-size:24px;margin-top:0;}
+  .article pre{white-space:pre-wrap;font-family:inherit;}
+  footer.site{border-top:1px solid var(--line);padding:18px 24px;color:var(--muted);font-size:13px;text-align:center;}
+  .empty{color:var(--muted);padding:40px;text-align:center;}
+</style>
+</head>
+<body>
+<header class="site">
+  <h1>洞察报告 Sourcing</h1>
+  <p>咨询机构 / 研究机构 / 公众号观点聚合与每周综述</p>
+</header>
+<nav class="site">
+  <a href="index.html">首页</a>
+  <a href="reports.html">全部报告</a>
+  <a href="digests.html">每周综述</a>
+  <a href="admin.html">后台加源</a>
+</nav>
+<main>
+
+  <div class="row">
+    <label>按来源：
+      <select id="f-source">
+        <option value="">全部</option>
+        <option value=""></option><option value=""></option>
+      </select>
+    </label>
+    <label>按分类：
+      <select id="f-cat">
+        <option value="">全部</option>
+        <option value="战略/综合">战略/综合</option><option value="科技/AI">科技/AI</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="list">
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/af2c9be6b983.html">The CEO’s role in transformation</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-15</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed e…</p>
+      <a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/29dcdb071161.html">How consumers are reshaping the future of mobility</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-14</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Our recent survey reveals shifting consumer priorities, with rising expectations for affordability, sustainability, and …</p>
+      <a href="https://www.mckinsey.com/features/mckinsey-center-for-future-mobility/our-insights/how-consumers-are-reshaping-the-future-of-mobility" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/692d629ab0f9.html">How physician CEOs hone the double-edged sword of clinical training</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-14</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The journey from physician to CEO has no prescribed path, but those who’ve reached the top reveal how they evolved the s…</p>
+      <a href="https://www.mckinsey.com/industries/healthcare/our-insights/how-physician-ceos-hone-the-double-edged-sword-of-clinical-training" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/f683feb9e631.html">Rewiring customer experience for the agentic era</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-14</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>As AI agents take on moment-to-moment decisions, leading companies are redesigning customer experience from predefined j…</p>
+      <a href="https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/9212fef8cbc6.html">Building expertise in the age of AI: Who trains the next generation?</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-14</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>As AI reshapes entry-level work, organizations should rethink how expertise is developed by integrating knowledge manage…</p>
+      <a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/eeefe7b321ca.html">Rewired takes: Practical people lessons for scaling AI adoption</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-13</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>McKinsey Senior Partner Brooke Weddle explores how companies are successfully scaling their AI programs.</p>
+      <a href="https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/cc236304f82a.html">Is that AI agent worth it? Agentic economics and the modern operating model</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-13</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>As companies focus on spiraling AI costs, they need to make sure not to lose sight of the real prize.</p>
+      <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/de50099e065b.html">How AI is reshaping value creation in residential real estate</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-13</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>McKinsey’s Alex Wolkomir discusses how housing leaders can win with AI by improving customer experiences, redesigning wo…</p>
+      <a href="https://www.mckinsey.com/industries/real-estate/our-insights/how-ai-is-reshaping-value-creation-in-residential-real-estate" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/cfab85675bf9.html">How a 180-year-old news institution prepares for its next reinvention</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-10</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Associated Press CEO Daisy Veerasingham discusses AI, the economics of trusted content, and why preserving editorial ind…</p>
+      <a href="https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-a-180-year-old-news-institution-prepares-for-its-next-reinvention" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/947efcb2d4a8.html">Agents, robots, and us: How AI reshapes work and skills in Latin America</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-09</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Most skills will still be needed—but how people use them will change as they work alongside intelligent machines.</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/1d054f7773da.html">Author Talks: In Hollywood and in business, it’s cool to be kind</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-09</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>In Lead with Kindness, television writer and producer Melinda Hsu explores how so-called soft skills like empathy, mindf…</p>
+      <a href="https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-in-hollywood-and-in-business-its-cool-to-be-kind" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/a60eb4e2d0af.html">The real AI advantage</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-09</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The next wave of value from AI will flow to those leaders who redesign business models, eliminate friction, and build or…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/the-real-ai-advantage" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/d45cc118d145.html">From adoption to impact: Three horizons of AI transformation</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-08</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Most organizations are still early in their AI journeys. A new global survey reveals how companies can progress from ind…</p>
+      <a href="https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/ce4a7bb44977.html">Cost versus value: Managing agentic AI system performance</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-08</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Per-token pricing has stopped being a useful measure for what enterprises actually pay for gen AI. A conversation with D…</p>
+      <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/cost-versus-value-managing-agentic-ai-system-performance" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/d44bdae2d229.html">From healthcare to health: Asia’s longevity opportunity</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-08</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>On average, people are living longer than before, raising a broader conversation about how to create an ecosystem that e…</p>
+      <a href="https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/from-healthcare-to-health-asias-longevity-opportunity" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/179510d0b7a4.html">Reimagining logistics pricing</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-08</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Logistics players can focus on four pricing strategies in the AI era.</p>
+      <a href="https://www.mckinsey.com/industries/logistics/our-insights/reimagining-logistics-pricing" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/bf1862b86f6d.html">Climate planning has prioritized floods. Heat demands equal attention</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-07</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Summer in the Northern Hemisphere has gotten off to a very hot start. This has focused attention on the impacts of heat …</p>
+      <a href="https://www.mckinsey.com/mgi/media-center/mckinsey-global-institute-climate-planning-has-prioritized-floods-heat-demands-equal-attention" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/b09ad8815e6d.html">The operating model advantage: Why AI winners are rewiring their organizations</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-07</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The real AI advantage comes from redesigning how work is done and how decisions are made. Ultimately, success will depen…</p>
+      <a href="https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/25b8c695ac26.html">From the C-suite to the boardroom: Christiana Smith Shi on what it takes</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-07</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>For executives, the developmental opportunity may be clear, but what does board service really entail?</p>
+      <a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/from-the-c-suite-to-the-boardroom-christiana-smith-shi-on-what-it-takes" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/9d1d71970ca9.html">Why accelerated resource allocation matters in the age of AI</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-06</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>In an era of rapid AI disruption, the winners may not be the companies that predict the future most accurately, but thos…</p>
+      <a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/b99784a74d6b.html">Building America’s innovation engine: An interview with David Lebryk</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-06</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The former US Treasury official shares how government can deliver in moments of crisis and how America’s public–private …</p>
+      <a href="https://www.mckinsey.com/industries/public-sector/our-insights/building-americas-innovation-engine-an-interview-with-david-lebryk" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/1cc8c6f18954.html">A microscope on small businesses: Chile’s productivity opportunity</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-06</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Overcoming scale-related barriers and strengthening ties with other firms—both large and small—can help small businesses…</p>
+      <a href="https://www.mckinsey.com/featured-insights/americas/a-microscope-on-small-businesses-chiles-productivity-opportunity" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/4c9d3a13b92c.html">How Covista is changing education for healthcare professionals</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-06</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Chairman and CEO Steve Beard explains how the organization’s multiyear transformation has reshaped its purpose, structur…</p>
+      <a href="https://www.mckinsey.com/capabilities/transformation/our-insights/how-covista-is-changing-education-for-healthcare-professionals" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/2805f17422c3.html">A dual transformation agenda for Europe’s chemicals industry</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-03</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The strongest chemical company transformations in Europe perform a difficult balancing act: improving performance while …</p>
+      <a href="https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/3190974d1f84.html">How Miro is redefining collaboration across the product development life cycle</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-02</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Miro cofounder and CEO Andrey Khusid reflects on the company’s evolution from a digital whiteboard to an AI-powered work…</p>
+      <a href="https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/how-miro-is-redefining-collaboration-across-the-product-development-life-cycle" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/a06a4c10453a.html">The serial builder advantage: Why repeat innovators win</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-02</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>New McKinsey research explains why organizations that repeatedly build new ventures outperform those that approach innov…</p>
+      <a href="https://www.mckinsey.com/capabilities/business-building/our-insights/the-serial-builder-advantage-why-repeat-innovators-win" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/8dba5643d138.html">The real future of work in healthcare</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-02</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Healthcare is in a productivity crisis that more hiring and more technology alone will not solve. The next era of care d…</p>
+      <a href="https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/c419ea3602f4.html">Building a more resilient industrial base may require $2 trillion in investment</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-02</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>As the United States approaches its 250th anniversary, intensifying technological competition and geopolitical risks hav…</p>
+      <a href="https://www.mckinsey.com/mgi/media-center/building-a-more-resilient-industrial-base-may-require-2-trillion-in-investment" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/23fab17658a9.html">McKinsey Global Publishing’s 2026 book picks</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>We asked McKinsey Global Publishing and Marketing colleagues to share what’s on their bookshelves this year—here’s what …</p>
+      <a href="https://www.mckinsey.com/featured-insights/annual-book-recommendations/mckinsey-global-publishings-book-picks" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/c6eebb865231.html">Lights, camera, algorithm: How AI is rewriting the rules of film and TV</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Artificial intelligence is reshaping film and TV production from script to screen—but the biggest disruptions may not be…</p>
+      <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/lights-camera-algorithm-how-ai-is-rewriting-the-rules-of-film-and-tv" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/c83307843189.html">Closing the women’s health gap: The United Kingdom’s £36 billion opportunity</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Closing the women’s health gap in the United Kingdom could result in ten more healthy days of life per year for every wo…</p>
+      <a href="https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-the-united-kingdoms-36-billion-pound-opportunity" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/b5bced90f1d7.html">Betsy Nabel on physicians and women in healthcare leadership roles</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Betsy Nabel, a leader and advocate for women in healthcare, reflects on the moves she’s made in her career to stay true …</p>
+      <a href="https://www.mckinsey.com/industries/healthcare/our-insights/betsy-nabel-on-physicians-and-women-in-healthcare-leadership-roles" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/6eddb8a5e6f8.html">What to read next McKinsey’s 2026 annual book recommendations</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>McKinsey Global Publishing’s annual reading list is back, featuring compelling recommendations from a diverse group of l…</p>
+      <a href="https://www.mckinsey.com/featured-insights/annual-book-recommendations" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/e231771661a2.html">Suphachai Chearavanont: Bold moves in innovation-driven transformation</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>In striving for business growth while creating value for society, Suphachai Chearavanont has based his leadership strate…</p>
+      <a href="https://www.mckinsey.com/featured-insights/future-of-asia/suphachai-chearavanont-bold-moves-in-innovation-driven-transformation" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/2d82dcbb52b5.html">AI in five industries: What’s now, and what’s next</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-07-01</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The headlines are everywhere. The nuance is more elusive. In these video Explainers, McKinsey partners go sector by sect…</p>
+      <a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/ai-in-five-industries-whats-now-and-whats-next" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/bdaea6400ba2.html">Colocation data centers: The infrastructure race behind AI</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing …</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/57c1ffd44ef7.html">Biopharma R&D: The evolving formula for discovery and development</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Innovation after innovation is advancing the biopharmaceutical industry, enabling better treatment of complex diseases. …</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/biopharma-r-and-d-the-evolving-formula-for-discovery-and-development" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/1e45c644702b.html">Talking with Daniel Marovitz, SVP of Fintech at Booking.com</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Booking.com’s senior vice president of fintech describes how the travel-booking company has become the global platform o…</p>
+      <a href="https://www.mckinsey.com/industries/financial-services/our-insights/talking-with-daniel-marovitz-svp-of-fintech-at-booking-com" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/4275e70ffca6.html">Polyethylene: Widely produced—but not one-size-fits-all</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Manufacturing polyethylene is a highly competitive business. Success depends greatly on access to feedstocks, yet invest…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/251af238888a.html">Semiconductors: Etching the new map of strategic supply</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>As geopolitics shift, more countries are wooing semiconductor manufacturers to enhance resilience. At the same time, dem…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/d15ebe83df76.html">Solar power: From intermittent sunshine to reliable power</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Solar photovoltaic projects with battery energy storage systems are moving beyond low-cost generation by transforming in…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/6c759cbcdb64.html">Batteries: Scaling the engine of electrification</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Demand for batteries is surging as electric vehicles and storage grow, but competitiveness depends on securing materials…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/batteries-scaling-the-engine-of-electrification" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/2c67b5f44797.html">Pharmaceuticals: Innovating and advancing around the world</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>The continued rise of monoclonal antibody therapies and demographic changes are powering growth in the pharmaceuticals i…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/pharmaceuticals-innovating-and-advancing-around-the-world" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/ac78cdf18ce3.html">EAF steel: Beyond the blast furnace</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Global steel investment is flat, but DRI-EAF production is gaining share in advanced economies.</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/12825f7282f0.html">Catalyzing competitiveness: Where investment happens and why</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Competitiveness has moved to the top of the global agenda, and investment is its indicator and its outcome. In the conte…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/catalyzing-competitiveness-where-investment-happens-and-why" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/f54e6e9a08b0.html">From access to assets: How early-life wealth building can shape economic mobility</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Investing in children’s financial futures can narrow disparities and expand opportunity. Different scenarios for the new…</p>
+      <a href="https://www.mckinsey.com/institute-for-economic-mobility/our-insights/from-access-to-assets-how-early-life-wealth-building-can-shape-economic-mobility" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/73948b29e2e7.html">Author Talks: Why we need a ‘ritual renaissance’</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>What if the antidote to loneliness isn’t technology but ritual? Traveling across 16 countries, author Bruce Feiler uncov…</p>
+      <a href="https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-we-need-a-ritual-renaissance" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/6fcc596caed7.html">Australia’s grid opportunity: Why it’s time to flick the switch</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Australia’s energy transition has entered a new phase. Moving beyond “should we?” the question is now how to deliver an …</p>
+      <a href="https://www.mckinsey.com/au/our-insights/australias-grid-opportunity-why-its-time-to-flick-the-switch" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/38ff4dd8350b.html">Economic conditions outlook, June 2026</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>In early June, executives were more downbeat on the economy than they have been in years and reported divided expectatio…</p>
+      <a href="https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/economic-conditions-outlook" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="麦肯锡" data-cat="战略/综合">
+      <h3><a href="reports/df37018d715a.html">Automotive R&D: Charging ahead in EV platform development</a></h3>
+      <div class="meta">
+        <span class="tag">麦肯锡</span>
+        <span class="tag">战略/综合</span>
+        <span>2026-06-30</span>
+        
+        <span class="tag">仅摘要</span>
+      </div>
+      <p>Improvements in batteries and recharging, not to mention geopolitics, have increased consumer appetites for electric veh…</p>
+      <a href="https://www.mckinsey.com/mgi/our-research/automotive-r-and-d-charging-ahead-in-ev-platform-development" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/c49b33e62b10.html">“被投资人怒怼30分钟后，我更确定中国To B的答案” | 甲子光年</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>AI岗位化，重塑中国To B市场逻辑。
+作者｜田思奇
+编辑｜栗子
+饭还没上，争论先来。投资人坚持“改成美式SaaS，不然没戏”；张韶峰回了一句：“中国没有SaaS。”
+这句“逆势”背后，是他多年在一线看到的常态：项目越做越长、系统越来越全，…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1578" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/69c3bd04d885.html">离开小米后，他赌耳机才是AI硬件的最优解</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>AI硬件真正的分水岭，是Agent OS。
+作者｜刘杨楠
+编辑｜栗子
+耳机盒是否只能作为充电配件？AI硬件上摄像头拍摄的内容，究竟是给人看，还是给设备“看”？手表在一套AI系统中的意义，到底是什么？
+在光帆科技Lightwear出现之前，这…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1675" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/0e2d1028a8db.html">郝景芳谈墓志铭哽咽落泪，走出12年焦虑期，接受自己死后了无痕迹</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>推荐视频
+                        更多
+                    
+                    
+                郝景芳谈墓志铭哽咽落泪，走出12年焦虑期，接受自己死后了无痕…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1762" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/9d362e9c10a8.html">甲小姐对话OpenAI科学家：每个人都在扎堆，要想办法与众不同</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>把视野缩小到“要像OpenAI那样”是很危险的，你完全可以从OpenAI中得到启发，走得更远，走得更不同。
+作者｜甲小姐 刘杨楠
+编辑｜王博
+“这是计划的一部分。”
+这是《三体Ⅱ：黑暗森林》中，面壁者为了掩饰自己的真实计划而对外说的一句话。…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1117" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/648a14c806df.html">甲小姐对话黄伟：一边“找死”，一边活下去</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>13年创业上市路，AI“老兵”的长期主义与现实生存法则。
+作者｜甲小姐
+创业13年，筹备上市5年，审核博弈649天——云知声创始人黄伟的故事像一面镜子，照见了中国AI企业的生存真相：在资本浪潮与技术理想之间，“留在牌桌”需要勇气，更需要耐力…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1720" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/ee848b71bb1f.html">AI产业最新趋势解读：词元经济体系下的组织变革新机遇</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>案例征集
+                        请附上公司简介、业务介绍等相关资料及联系方式，与我们联系。
+                    联系人：郑爽
+                        微信号：Carol_…</p>
+      <a href="https://www.jazzyear.com/study_info.html?id=166" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/4266a4996807.html">胡峥楠就任小米汽车CTO后首次受访：我的第一要务是重新学习</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2026-06-09</span>
+        
+        
+      </div>
+      <p>一位造车老兵和一家科技大厂，如何在不确定中重建自己的技术方法论？
+2026北京车展，小米汽车的展台依然是人流最密集的区域之一——在媒体日的第一天（4月24日），这里就排起了长队。
+一边是新一代SU7交付提速、订单持续走高，截至4月23日，新…</p>
+      <a href="https://www.jazzyear.com/article_info.html?id=1784" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+    <div class="card" data-source="甲子光年(官网)" data-cat="科技/AI">
+      <h3><a href="reports/05a78b5c69fe.html">张一甲：2025人工智能产业30条判断</a></h3>
+      <div class="meta">
+        <span class="tag">甲子光年(官网)</span>
+        <span class="tag">科技/AI</span>
+        <span>2025-12-03</span>
+        
+        
+      </div>
+      <p>2025人工智能产业30条判断
+1. 过去一年，AI发生了什么？
+2. 此刻：轰然成势，万象归一
+2.1 轰然成势，万象归一
+2.2 “轰然成势”，是能量的临界；“万象归一”，是秩序的自觉
+3. 定义：“默认式AI（Default AI）”…</p>
+      <a href="https://www.jazzyear.com/study_info.html?id=160" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  
+  </div>
+
+<script>
+  const fs = document.getElementById('f-source');
+  const fc = document.getElementById('f-cat');
+  function apply(){
+    const s = fs.value, c = fc.value;
+    document.querySelectorAll('#list .card').forEach(el=>{
+      const ok = (!s || el.dataset.source===s) && (!c || el.dataset.cat===c);
+      el.style.display = ok ? '' : 'none';
+    });
+  }
+  fs.addEventListener('change', apply);
+  fc.addEventListener('change', apply);
+</script>
+
+</main>
+<footer class="site">
+  由 WorkBuddy 自动聚合生成 · 数据来源见各报告原文链接 · 更新于 2026-07-15 10:04 UTC
+</footer>
+</body>
+</html>

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>后台加源 · 洞察报告 Sourcing</title>
+<style>
+  :root{--bg:#fff;--fg:#1f2937;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--accent-soft:#eff6ff;}
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;color:var(--fg);background:#f7f8fa;line-height:1.6;padding:24px;}
+  .wrap{max-width:760px;margin:0 auto;}
+  h1{font-size:20px;} h2{font-size:16px;margin-top:24px;}
+  .card{border:1px solid var(--line);border-radius:10px;background:#fff;padding:16px;margin-bottom:14px;}
+  label{display:block;font-size:13px;color:var(--muted);margin:8px 0 4px;}
+  input,select,textarea{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;font-size:14px;font-family:inherit;}
+  textarea{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;min-height:220px;}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;}
+  button{background:var(--accent);color:#fff;border:none;padding:9px 16px;border-radius:8px;font-size:14px;cursor:pointer;margin-top:10px;}
+  button.ghost{background:#fff;color:var(--accent);border:1px solid var(--accent);}
+  button:hover{opacity:.92;}
+  .note{font-size:12px;color:var(--muted);}
+  #status{margin-top:12px;font-size:14px;padding:10px;border-radius:8px;display:none;}
+  #status.ok{display:block;background:#ecfdf5;color:#065f46;}
+  #status.err{display:block;background:#fef2f2;color:#991b1b;}
+  code{background:#f3f4f6;padding:1px 5px;border-radius:4px;}
+  a{color:var(--accent);}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>后台加源 · 可视化添加报告来源</h1>
+  <p class="note">这里添加的来源会直接写进仓库的 <code>sources.yaml</code>，并自动触发一次重新抓取。只需填网址，不用碰代码。</p>
+
+  <div class="card">
+    <h2 style="margin-top:0;">① 仓库与令牌（首次填写后会自动记住）</h2>
+    <div class="grid">
+      <div><label>仓库所有者(用户名)</label><input id="owner" placeholder="如 octocat"></div>
+      <div><label>仓库名</label><input id="repo" placeholder="如 insight-sourcing"></div>
+    </div>
+    <label>GitHub Token（PAT，仅需此仓库权限）</label>
+    <input id="token" type="password" placeholder="ghp_xxx 或 github_pat_xxx">
+    <p class="note">令牌只需勾选 <code>repo</code> 与 <code>workflow</code> 权限。生成地址：GitHub → Settings → Developer settings → Personal access tokens。</p>
+    <button id="loadBtn">加载当前来源</button>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0;">② 添加新来源</h2>
+    <div class="grid">
+      <div><label>显示名称</label><input id="s_name" placeholder="如 贝恩咨询"></div>
+      <div><label>类型</label>
+        <select id="s_type"><option value="rss">rss（直接给RSS地址）</option><option value="web">web（给网站首页）</option></select>
+      </div>
+    </div>
+    <label>网址（RSS 地址 或 网站首页）</label>
+    <input id="s_url" placeholder="https://...">
+    <div class="grid">
+      <div><label>分类标签</label><input id="s_cat" placeholder="如 战略/综合"></div>
+      <div><label>来源标记</label>
+        <select id="s_via"><option value="">普通</option><option value="wechat_rss">微信公众号</option></select>
+      </div>
+    </div>
+    <label>启用</label>
+    <select id="s_enabled"><option value="true">是（立即抓取）</option><option value="false">否（先存着）</option></select>
+    <p class="note" id="selectorHint" style="display:none;">web 类型可在下方粘贴文章链接选择器（如 <code>a[href*='article']</code>），多个用逗号分隔；留空则自动猜测。</p>
+    <label id="selectorLabel" style="display:none;">列表选择器（可选，web 类型）</label>
+    <input id="s_selectors" style="display:none;" placeholder="a[href*='article_info.html']">
+    <button id="addBtn">添加并保存</button>
+  </div>
+
+  <div class="card">
+    <h2 style="margin-top:0;">③ 当前 sources.yaml（可手动微调，点保存生效）</h2>
+    <textarea id="yaml" placeholder="先点「加载当前来源」"></textarea>
+    <button id="saveBtn" class="ghost">保存并触发重新抓取</button>
+  </div>
+
+  <div id="status"></div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const API = "https://api.github.com";
+
+// 记住输入
+["owner","repo","token"].forEach(k=>{
+  const v = localStorage.getItem("admin_"+k);
+  if(v) $(k).value = v;
+});
+["owner","repo","token"].forEach(k=>{
+  $(k).addEventListener("input", ()=>localStorage.setItem("admin_"+k, $(k).value));
+});
+
+// 类型切换显示选择器
+$("s_type").addEventListener("change", ()=>{
+  const isWeb = $("s_type").value === "web";
+  $("selectorHint").style.display = isWeb ? "block" : "none";
+  $("selectorLabel").style.display = isWeb ? "block" : "none";
+  $("s_selectors").style.display = isWeb ? "block" : "none";
+});
+
+function b64encode(str){
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  bytes.forEach(b=> bin += String.fromCharCode(b));
+  return btoa(bin);
+}
+function b64decode(b64){
+  const bin = atob(b64);
+  const bytes = Uint8Array.from(bin, c=>c.charCodeAt(0));
+  return new TextDecoder().decode(bytes);
+}
+function authHeaders(){
+  return {"Authorization":"Bearer "+$("token").value, "Accept":"application/vnd.github+json", "Content-Type":"application/json"};
+}
+function setStatus(msg, ok){
+  const el = $("status");
+  el.textContent = msg;
+  el.className = ok ? "ok" : "err";
+}
+
+async function getFile(){
+  const url = `${API}/repos/${$("owner").value}/${$("repo").value}/contents/sources.yaml`;
+  const r = await fetch(url, {headers: authHeaders()});
+  if(!r.ok) throw new Error("读取失败：" + (await r.text()));
+  const data = await r.json();
+  return data; // {content, sha}
+}
+
+$("loadBtn").onclick = async ()=>{
+  try{
+    const data = await getFile();
+    $("yaml").value = b64decode(data.content);
+    setStatus("已加载当前来源。", true);
+  }catch(e){ setStatus("加载失败：" + e.message, false); }
+};
+
+function buildEntry(){
+  const name=$("s_name").value.trim(), url=$("s_url").value.trim(), cat=$("s_cat").value.trim();
+  const type=$("s_type").value, via=$("s_via").value, enabled=$("s_enabled").value;
+  if(!name||!url) { setStatus("请填写名称和网址。", false); return null; }
+  let s = `\n- name: ${name}\n  type: ${type}\n  url: ${url}\n`;
+  if(cat) s += `  category: ${cat}\n`;
+  if(via) s += `  via: ${via}\n`;
+  if(type==="web"){
+    const sel=$("s_selectors").value.trim();
+    if(sel) s += `  list_selectors: [${sel.split(",").map(x=>'"'+x.trim()+'"').join(", ")}]\n`;
+  }
+  s += `  enabled: ${enabled}\n`;
+  return s;
+}
+
+$("addBtn").onclick = ()=>{
+  const entry = buildEntry();
+  if(entry===null) return;
+  const cur = $("yaml").value.trimEnd();
+  $("yaml").value = cur + entry;
+  setStatus("已加入下方文本框，请点「保存并触发重新抓取」生效。", true);
+};
+
+async function putFile(content, sha, message){
+  const url = `${API}/repos/${$("owner").value}/${$("repo").value}/contents/sources.yaml`;
+  const body = JSON.stringify({message, content: b64encode(content), sha});
+  const r = await fetch(url, {method:"PUT", headers: authHeaders(), body});
+  if(!r.ok) throw new Error("保存失败：" + (await r.text()));
+}
+
+async function dispatch(){
+  const url = `${API}/repos/${$("owner").value}/${$("repo").value}/actions/workflows/ci.yml/dispatches`;
+  const r = await fetch(url, {method:"POST", headers: authHeaders(), body: JSON.stringify({ref:"main"})});
+  if(!r.ok) throw new Error("触发失败：" + (await r.text()));
+}
+
+$("saveBtn").onclick = async ()=>{
+  try{
+    const data = await getFile();
+    await putFile($("yaml").value, data.sha, "chore: update sources via admin");
+    setStatus("已保存。正在触发重新抓取……", true);
+    try{ await dispatch(); setStatus("已保存并触发重新抓取，几分钟后刷新网站即可看到新来源。", true); }
+    catch(e){ setStatus("已保存，但自动触发失败，请到 Actions 手动 Run workflow：" + e.message, false); }
+  }catch(e){ setStatus("保存失败：" + e.message, false); }
+};
+</script>
+</body>
+</html>

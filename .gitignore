@@ -1,0 +1,7 @@
+# 运行日志 / 缓存
+fetch.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env

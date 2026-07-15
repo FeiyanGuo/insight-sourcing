@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}每周综述 - {{ site.title }}{% endblock %}
+{% block content %}
+  <h2 style="font-size:18px;">每周观点综述（共 {{ digests|length }} 期）</h2>
+  {% for d in digests %}
+    <div class="card">
+      <h3><a href="digests/{{ d.week }}.html">{{ d.week }} 周报</a></h3>
+      <div class="meta">基于 {{ d.count }} 篇报告 · {{ d.heading }}</div>
+    </div>
+  {% else %}
+    <p class="empty">还没有生成周报。运行 digest.py 后将出现在这里。</p>
+  {% endfor %}
+{% endblock %}

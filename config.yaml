@@ -1,0 +1,23 @@
+# 全局配置（一般不用改）
+timezone: Asia/Shanghai
+
+fetch:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+  delay_seconds: 2        # 每个请求之间的间隔，礼貌抓取
+  timeout: 30             # 索引页(列表/RSS)请求超时(秒)
+  fulltext_timeout: 10    # 详情页全文抓取超时(秒)，抓不到就回退摘要，避免卡住
+  max_articles_per_web: 8 # 每个 web 源每次最多抓的新文章数
+  max_retries: 3
+  fulltext_retries: 1     # 全文抓取只重试 1 次
+
+digest:
+  provider: deepseek
+  base_url: https://api.deepseek.com/v1
+  model: deepseek-chat
+  max_reports_per_week: 150   # 一周报告太多时，优先用最新的
+  language: zh
+
+site:
+  title: 洞察报告 Sourcing
+  subtitle: 咨询机构 / 研究机构 / 公众号观点聚合与每周综述
+  base_url: ""   # 部署后填你的 Pages 地址，如 https://你的用户名.github.io/仓库名

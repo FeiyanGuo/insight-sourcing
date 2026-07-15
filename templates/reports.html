@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}全部报告 - {{ site.title }}{% endblock %}
+{% block content %}
+  <div class="row">
+    <label>按来源：
+      <select id="f-source">
+        <option value="">全部</option>
+        {% for s in sources %}<option value="{{ s.name }}">{{ s.name }}</option>{% endfor %}
+      </select>
+    </label>
+    <label>按分类：
+      <select id="f-cat">
+        <option value="">全部</option>
+        {% for c in categories %}<option value="{{ c }}">{{ c }}</option>{% endfor %}
+      </select>
+    </label>
+  </div>
+
+  <div id="list">
+  {% for r in reports %}
+    <div class="card" data-source="{{ r.source }}" data-cat="{{ r.category }}">
+      <h3><a href="reports/{{ r.id }}.html">{{ r.title }}</a></h3>
+      <div class="meta">
+        <span class="tag">{{ r.source }}</span>
+        {% if r.category %}<span class="tag">{{ r.category }}</span>{% endif %}
+        <span>{{ r.date[:10] }}</span>
+        {% if r.via == 'wechat_rss' %}<span class="tag wechat">微信</span>{% endif %}
+        {% if not r.has_full_text %}<span class="tag">仅摘要</span>{% endif %}
+      </div>
+      {% if r.summary %}<p>{{ r.summary[:120] }}{% if r.summary|length > 120 %}…{% endif %}</p>{% endif %}
+      <a href="{{ r.url }}" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  {% else %}
+    <p class="empty">还没有报告。</p>
+  {% endfor %}
+  </div>
+
+<script>
+  const fs = document.getElementById('f-source');
+  const fc = document.getElementById('f-cat');
+  function apply(){
+    const s = fs.value, c = fc.value;
+    document.querySelectorAll('#list .card').forEach(el=>{
+      const ok = (!s || el.dataset.source===s) && (!c || el.dataset.cat===c);
+      el.style.display = ok ? '' : 'none';
+    });
+  }
+  fs.addEventListener('change', apply);
+  fc.addEventListener('change', apply);
+</script>
+{% endblock %}

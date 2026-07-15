@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}{{ site.title }}{% endblock %}
+{% block content %}
+  <section class="card">
+    <h3>最新一周观点综述</h3>
+    {% if latest_digest %}
+      <p class="meta">{{ latest_digest.week }} · 基于 {{ latest_digest.count }} 篇报告</p>
+      <p><a class="btn" href="digests/{{ latest_digest.week }}.html">阅读本周综述 →</a></p>
+    {% else %}
+      <p class="empty">还没有生成周报，运行脚本后将自动出现。</p>
+    {% endif %}
+  </section>
+
+  <h2 style="font-size:18px;">最新报告（{{ reports|length }} 篇）</h2>
+  {% for r in reports[:12] %}
+    <div class="card">
+      <h3><a href="reports/{{ r.id }}.html">{{ r.title }}</a></h3>
+      <div class="meta">
+        <span class="tag">{{ r.source }}</span>
+        {% if r.category %}<span class="tag">{{ r.category }}</span>{% endif %}
+        <span>{{ r.date[:10] }}</span>
+        {% if r.via == 'wechat_rss' %}<span class="tag wechat">微信</span>{% endif %}
+        {% if not r.has_full_text %}<span class="tag">仅摘要</span>{% endif %}
+      </div>
+      {% if r.summary %}<p>{{ r.summary[:120] }}{% if r.summary|length > 120 %}…{% endif %}</p>{% endif %}
+      <a href="{{ r.url }}" target="_blank" rel="noopener">查看原文 ↗</a>
+    </div>
+  {% else %}
+    <p class="empty">还没有抓到报告。</p>
+  {% endfor %}
+  <p><a href="reports.html">查看全部报告 →</a></p>
+{% endblock %}

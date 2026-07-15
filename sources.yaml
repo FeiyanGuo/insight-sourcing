@@ -1,0 +1,50 @@
+# ============================================================
+# 报告来源配置 —— 你主要在「后台页 admin.html」里改的就是这个文件
+# 每条来源的解释：
+#   name      : 显示名称（如 麦肯锡 / 甲子光年(公众号)）
+#   type      : rss  = 直接给 RSS 源地址；web = 给网站首页，由程序自动找文章
+#   url       : RSS 地址 或 网站首页地址
+#   category  : 分类标签（用于筛选）
+#   via       : 可选，填 wechat_rss 表示来自微信公众号（图片报告仅存图+链接）
+#   enabled   : true 才抓取
+# 想加新来源？复制下面任意一条改 name/url/type/category 即可。
+# ============================================================
+
+# ---------- 机构官网 / RSS ----------
+- name: 麦肯锡
+  type: rss
+  url: https://www.mckinsey.com/insights/rss.aspx
+  category: 战略/综合
+  enabled: true
+
+- name: Gartner
+  type: rss
+  url: https://blogs.gartner.com/feed/
+  category: 研究/IT
+  enabled: true
+
+- name: 甲子光年(官网)
+  type: web
+  url: https://www.jazzyear.com/
+  list_selectors:
+    - "a[href*='article_info.html']"
+    - "a[href*='study_info.html']"
+  category: 科技/AI
+  enabled: true
+
+# ---------- 微信公众号（通过「转 RSS 服务」接入）----------
+# 下面两个 url 需要你从「公众号转 RSS 服务」(如 RSSHub / WeRSS) 拿到后替换。
+# 获取方式见 README.md 的「接入微信公众号」一节。
+- name: 甲子光年(公众号)
+  type: rss
+  url: REPLACE_WITH_WECHAT_RSS_URL
+  category: 科技/AI
+  via: wechat_rss
+  enabled: false
+
+- name: 华泰证券(公众号)
+  type: rss
+  url: REPLACE_WITH_WECHAT_RSS_URL
+  category: 金融/策略
+  via: wechat_rss
+  enabled: false

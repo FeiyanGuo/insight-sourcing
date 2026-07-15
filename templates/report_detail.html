@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}{{ r.title }} - {{ site.title }}{% endblock %}
+{% block content %}
+  <article class="article">
+    <h1>{{ r.title }}</h1>
+    <div class="meta">
+      <span class="tag">{{ r.source }}</span>
+      {% if r.category %}<span class="tag">{{ r.category }}</span>{% endif %}
+      {% if r.via == 'wechat_rss' %}<span class="tag wechat">微信公众号</span>{% endif %}
+      <span>发布：{{ r.date[:10] }}</span>
+      {% if not r.has_full_text %}<span class="tag">仅摘要/需注册</span>{% endif %}
+    </div>
+    <p><a class="btn" href="{{ r.url }}" target="_blank" rel="noopener">打开原文 ↗</a></p>
+    <hr style="border:none;border-top:1px solid var(--line);margin:16px 0;">
+    {{ content | safe }}
+  </article>
+  <p style="margin-top:16px;"><a href="reports.html">← 返回全部报告</a></p>
+{% endblock %}
