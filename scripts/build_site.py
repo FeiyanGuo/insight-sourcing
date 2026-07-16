@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-build_site.py —— 由 data/ 生成静态站点到 site/
+build_site.py —— 由 data/ 生成静态站点到 docs/
 页面：首页 / 全部报告 / 报告详情 / 每周综述列表 / 周报详情
 """
 import os
@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
 REPORTS_DIR = os.path.join(DATA, "reports")
 DIGESTS_DIR = os.path.join(DATA, "digests")
-SITE = os.path.join(ROOT, "site")
+SITE = os.path.join(ROOT, "docs")
 TEMPLATES = os.path.join(ROOT, "templates")
 
 with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as f:
@@ -115,6 +115,10 @@ def main():
         with open(os.path.join(SITE, "digests", d["week"] + ".html"), "w", encoding="utf-8") as f:
             f.write(env.get_template("digest_detail.html").render(
                 site=site, week=d["week"], content=html, updated=updated))
+
+    # 禁止 GitHub Pages 的 Jekyll 处理我们的静态文件（避免误改 HTML）
+    with open(os.path.join(SITE, ".nojekyll"), "w", encoding="utf-8") as f:
+        f.write("")
 
     print(f"站点已生成：{SITE}")
     print(f"  报告页 {len(reports)} 篇，周报 {len(digest_idx)} 期")

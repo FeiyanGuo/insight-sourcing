@@ -26,7 +26,7 @@ git push -u origin main
 
 ### 2. 开启 GitHub Pages
 仓库 → **Settings → Pages → Build and deployment → Source 选 "Deploy from a branch"**，
-Branch 选 **main**，目录(folder)选 **/site** → Save。
+Branch 选 **main**，目录(folder)选 **/docs** → Save。
 几分钟后网站地址为 `https://<你的用户名>.github.io/insight-sourcing/`。
 
 ### 3. 配置 AI Key（用于周报整理）
@@ -82,7 +82,7 @@ data/
   reports.json      # 报告索引(去重)
   reports/<id>.md   # 单篇报告
   digests/<周>.md   # 每周综述
-site/               # 生成的网站（Pages 从这里发布）
+docs/               # 生成的网站（Pages 从这里发布，GitHub Pages 只支持 / 或 /docs）
 admin.html          # 可视化加源后台
 .github/workflows/ci.yml  # 定时+手动流水线
 ```

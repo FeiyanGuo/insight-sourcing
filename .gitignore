@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# 旧的生成目录（现已改用 docs/ 供 GitHub Pages 发布）
+site/
