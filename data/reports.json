@@ -1,6 +1,237 @@
 {
   "reports": [
     {
+      "id": "346b640d0aad",
+      "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-31T00:00:00+00:00",
+      "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory.",
+      "has_full_text": false
+    },
+    {
+      "id": "0e74434fa026",
+      "title": "Is the AI productivity story at a turning point?",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-31T00:00:00+00:00",
+      "summary": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him hope—and keeps him up at night.",
+      "has_full_text": false
+    },
+    {
+      "id": "351e537d845b",
+      "title": "Global Economics Intelligence executive summary, June 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-31T00:00:00+00:00",
+      "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts.",
+      "has_full_text": false
+    },
+    {
+      "id": "6e37a2077c54",
+      "title": "Powering AI: How real is the risk of overbuilding?",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-31T00:00:00+00:00",
+      "summary": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current projections.",
+      "has_full_text": false
+    },
+    {
+      "id": "a4e6660e0269",
+      "title": "How utilities can rewire customer operations with agentic AI",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while reducing costs.",
+      "has_full_text": false
+    },
+    {
+      "id": "3dd9e1ccf6c2",
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+      "has_full_text": false
+    },
+    {
+      "id": "9ae312f9f186",
+      "title": "The new advantage in the age of AI: Building in the real world",
+      "url": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation.",
+      "has_full_text": false
+    },
+    {
+      "id": "e0ac494d6cef",
+      "title": "Author Talks: The daily practices that lead to exceptional performance",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of high performance.",
+      "has_full_text": false
+    },
+    {
+      "id": "cbdada5d670b",
+      "title": "The shift to 800-volt DC at data centers: Implications for providers",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
+      "has_full_text": false
+    },
+    {
+      "id": "5f24332f0424",
+      "title": "Lion Finance: Competing like a fintech, winning as a bank",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance.",
+      "has_full_text": false
+    },
+    {
+      "id": "a49768114470",
+      "title": "WAIC“看见未来”，GDPS“做出未来”丨 “劳动最光荣”国际具身智能技能大赛全球征集启动",
+      "url": "https://www.jazzyear.com/article_info.html?id=1827",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "2026年10月23—25日 · 上海张江科学会堂\n每年7月，世界人工智能大会（WAIC）在上海启幕，作为全球瞩目的产业创新窗口，它让成熟方案同台亮相，在此汇聚人工智能与具身智能的产业高度，凝聚方向共识。看清趋势之后，更需将真实场景与产业真题摆上台面，在实景中把答案验证一遍。10月，全球开发者先锋大会（GDPS）暨国际具身智能技能大赛接力登场，正是这条链路上的下一站——“七月展成果，十月看未来”。\n▌ 征集场景\n国家定方向，GDPS来落地！具身进实景，劳动最光荣！国家使命，上海担当。坚持“产业出题、科技答题”，产业界涌现出大量场景真题。工信部联合国务院国资委启动《2026年度人形机器人与具身智",
+      "has_full_text": true
+    },
+    {
+      "id": "73fa06b245f0",
+      "title": "回应时代之问：WAIC UP 思享会在沪举行 多国嘉宾共议AI时代人生坐标",
+      "url": "https://www.jazzyear.com/article_info.html?id=1817",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "7月18日，上海世博展览馆。WAIC主会场，算力、算法、参数被反复提及，资本与技术在空气中碰撞。几百米外，一个下沉广场里，五个人把各自的困惑摊在台上。\n没有权威致辞，没有技术发布，没有合作协议。只有问题。\n尼日利亚的留学生问：当AI可以模仿微笑、生成问候，那些没有心跳的善意，还能称为善意吗？\n德国的工科生发现：自己做文献综述时，像AI一样“阅读”，浏览600篇摘要，提取关键词，跳过正文。直到一场关于车辆路径规划的讲座，一位教授用1小时的讲述，让他第一次“真正听了进去”。他反问：当机器能无限生成内容，人类的注意力成了稀缺品，我们是否正在失去“真正倾听”的能力？\n中国的创业者发现：AI帮他解出了游",
+      "has_full_text": true
+    },
+    {
+      "id": "93db67374fe1",
+      "title": "黄晓明：我想唱得和AI一样完美，却发现不可能",
+      "url": "https://www.jazzyear.com/article_info.html?id=1805",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "黄晓明：我想唱得和AI一样完美，却发现不可能\n                \n            - \n                        \n                        230288\n- \n                        \n                        5300\n- \n                        \n                        3100\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "b789b8776972",
+      "title": "甲小姐对话周鸿祎：不发展AI才是最大的不安全",
+      "url": "https://www.jazzyear.com/article_info.html?id=1161",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "AI信仰决定了一个公司愿不愿意全身心All in AI。就像攀岩一样，如果你不相信你的双脚，不相信安全绳，就攀不了岩。\n作者｜甲小姐 刘杨楠\n编辑｜王博\n“我们在攀岩馆聊吧。”\n53岁的360集团创始人周鸿祎过往在公众面前有很多标签，如今又多了一个——攀岩爱好者。去年，他直接把攀岩馆建在了360集团总部大楼里。\n这可能是历次甲小姐对话中，地点最特殊的一次。\n谈及为何学攀岩，这位“红衣大叔”的回答很朴素——第一，增加一项求生技能，要是某天发生灾难，会攀岩的人在废墟中的幸存率更高一点；第二，增加核心力量；第三，增加平衡感。\n这座攀岩馆已经留下很多企业家的身影，包括王石、俞敏洪等。2023年12月1",
+      "has_full_text": true
+    },
+    {
+      "id": "816380c2d0d8",
+      "title": "现场万字实录：“杭州六小龙”首次同台对话 | 甲子光年",
+      "url": "https://www.jazzyear.com/article_info.html?id=1599",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "中国科技产业的一次集体性的“结构突围”。 作者｜沈伊人 编辑｜王博 “杭州六小龙”首次公开坐在了一起。 11月7日，2025年世界互联网大会乌镇峰会开幕。在众多环节中，今年的主论坛特设的“六小龙乌镇对话”吸引了不少人的关注。 今年年初，宇树科技、强脑科技、群核科技、云深处科技、游戏科学、深度求索（DeepSeek）这六家来自杭州的企业由于其科技创新能力和国际影响力而被称为“杭州六小龙”。 “杭州六小龙”的同时出现，并不是偶然，而是中国科技产业一次集体性的“结构突围”。从具身智能到空间智能，从脑机接口到开源模型，从全球爆款游戏到顶尖科研成果，这六家企业站在不同赛道，却呈现出相同的底层逻辑：以自研",
+      "has_full_text": true
+    },
+    {
+      "id": "920ac3885cd5",
+      "title": "甲小姐对话程路：做能源领域的“自动驾驶”",
+      "url": "https://www.jazzyear.com/article_info.html?id=1500",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-07-29T00:00:00+00:00",
+      "summary": "作者｜甲小姐、云凡\n历史上每一次产业革命，背后都有能源革命的坚实支撑：从蒸汽时代的煤炭，到电气时代的油与电，再到如今信息与智能浪潮对能源的渴求——AI的尽头是能源。\n一方面，是能源再次成为时代核心命题的机遇，另一方面，是全球能源转型步入深水区的艰难。从传统“安全、经济、绿色”的“不可能三角”，到叠加了“低碳、便捷、高效”的“超级多边形难题”，其求解难度指数级增长，考验着所有从业者。\n新奥能源副总裁、新奥泛能网CEO程路博士，正带领团队寻找破局点。这位从战略研究员到辗转近10个岗位、双手沾满泥土的实干家，如今蜕变为能源AI先行者，想要成为“能源领域最懂AI，AI领域最懂能源的人”。\n“不转型一定",
+      "has_full_text": true
+    },
+    {
+      "id": "4e3bef83057d",
+      "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-28T00:00:00+00:00",
+      "summary": "Sai Jasti, Bayer’s senior vice president and head of data science and AI, on how the company is transforming its workflows and embedding AI in research and development to meet ambitious productivity goals.",
+      "has_full_text": false
+    },
+    {
+      "id": "b67433c6a136",
+      "title": "Why AI will elevate instead of replace commercial teams",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-28T00:00:00+00:00",
+      "summary": "Covestro’s chief commercial officer Monique Buch thinks of AI as a business strategy not a technology upgrade.",
+      "has_full_text": false
+    },
+    {
+      "id": "20c6846132da",
+      "title": "The CEO’s critical role in building new businesses",
+      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/the-ceos-critical-role-in-building-new-businesses",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-28T00:00:00+00:00",
+      "summary": "Venture building works best when it’s part of a dual-track strategy—launching new businesses alongside the core—with clear oversight from the CEO on capital allocation, culture, and capabilities.",
+      "has_full_text": false
+    },
+    {
+      "id": "f2c70a960427",
+      "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-27T00:00:00+00:00",
+      "summary": "Companies are reassessing how they work, their team structures, and what it means to be a manager in this bracing new era.",
+      "has_full_text": false
+    },
+    {
+      "id": "d2a404bc0224",
+      "title": "Lessons in resilience, leadership, and trust: An interview with Kathy Roth-Douquet",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/lessons-in-resilience-leadership-and-trust-an-interview-with-kathy-roth-douquet",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-27T00:00:00+00:00",
+      "summary": "The Blue Star Families’ CEO explains what the military family experience reveals about the meaning of service and the relationships that can strengthen community bonds.",
+      "has_full_text": false
+    },
+    {
       "id": "977d3e8d19ff",
       "title": "Author Talks: Why founders misunderstand customer demand",
       "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-founders-misunderstand-customer-demand",
@@ -20,6 +251,17 @@
       "via": "",
       "date": "2026-07-24T00:00:00+00:00",
       "summary": "AI makes continuous financial planning practical at scale. Organizations can identify risks sooner, evaluate trade-offs faster, and intervene before performance gaps widen.",
+      "has_full_text": false
+    },
+    {
+      "id": "3e73433dc693",
+      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
+      "url": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-24T00:00:00+00:00",
+      "summary": "Azerbaijan’s national energy company set out to digitalize one of its most strategic industrial assets. With bold leadership, deep workforce upskilling, and a rewired approach to digital and operations, SOCAR Carbamide transformed performance—and earned global recognition as a World Economic Forum Digital Lighthouse.",
       "has_full_text": false
     },
     {
