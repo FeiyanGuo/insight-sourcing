@@ -1,6 +1,226 @@
 {
   "reports": [
     {
+      "id": "72345d89be95",
+      "title": "Driving value with an investor mindset",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-13T00:00:00+00:00",
+      "summary": "Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience.",
+      "has_full_text": false
+    },
+    {
+      "id": "cf80bea2c7c1",
+      "title": "How premium leisure travel is rewriting airline economics",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-13T00:00:00+00:00",
+      "summary": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of airline profitability.",
+      "has_full_text": false
+    },
+    {
+      "id": "3eaed8143c4d",
+      "title": "How instant payments are transforming the financial landscape",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-13T00:00:00+00:00",
+      "summary": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment.",
+      "has_full_text": false
+    },
+    {
+      "id": "d2b57c065976",
+      "title": "Brilliant Moves: Coffee with Suzano CEO Beto Abreu",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/brilliant-moves-coffee-with-suzano-ceo-beto-abreu",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-13T00:00:00+00:00",
+      "summary": "As both organizations begin their second century, Suzano’s Beto Abreu and McKinsey’s Tracy Francis discuss what it takes to lead for the next generation.",
+      "has_full_text": false
+    },
+    {
+      "id": "2974d97289e2",
+      "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-13T00:00:00+00:00",
+      "summary": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease.",
+      "has_full_text": false
+    },
+    {
+      "id": "938fc772696b",
+      "title": "Joseph Tsai: Putting customers at the heart of innovation",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/joseph-tsai-putting-customers-at-the-heart-of-innovation",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "Joseph Tsai has reshaped Cathay United Bank by balancing innovation with a long-term view that consistently focuses on the customer.",
+      "has_full_text": false
+    },
+    {
+      "id": "52168a2a993b",
+      "title": "The untapped prize: Asia’s high-net-worth insurance market",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-untapped-prize-asias-high-net-worth-insurance-market",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "The competition for Asia’s high-net-worth-individual market is underway. Insurers are well-placed to address evolving customer needs.",
+      "has_full_text": false
+    },
+    {
+      "id": "2ed511de2e8b",
+      "title": "Improving private equity exit prospects",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/improving-private-equity-exit-prospects",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "In today’s tougher exit environment, private equity firms are facing longer holding periods, valuation gaps, and increased pressure to return capital.",
+      "has_full_text": false
+    },
+    {
+      "id": "0cf03c878c79",
+      "title": "AI transformations run on trust",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-transformations-run-on-trust",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "Technology may power AI transformation, but people determine whether it succeeds. Leaders can build trust through transparency, clarity, and investment in employees to create lasting change.",
+      "has_full_text": false
+    },
+    {
+      "id": "5e69307c2b1f",
+      "title": "Scaling minimobility: Industry leaders weigh in on what’s needed",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/scaling-minimobility-industry-leaders-weigh-in-on-whats-needed",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "We asked some of the leading players in minimobility to share their insights into what’s preventing broader adoption—and what could enable it. Here’s what they had to say.",
+      "has_full_text": false
+    },
+    {
+      "id": "a56c9f61974c",
+      "title": "Agentic AI and the future of global business services",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-11T00:00:00+00:00",
+      "summary": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
+      "has_full_text": false
+    },
+    {
+      "id": "7d39be948893",
+      "title": "How AI-led commercial transformation can power industrial growth",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-11T00:00:00+00:00",
+      "summary": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
+      "has_full_text": false
+    },
+    {
+      "id": "cf9859b28b15",
+      "title": "Solutions for the Black maternal-health crisis",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/solutions-for-the-black-maternal-health-crisis",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "Joy Rhoden of the American Hospital Association discusses how data, community partnerships, expanded care teams, and a focus on addressing health disparities are essential to improving maternal health outcomes.",
+      "has_full_text": false
+    },
+    {
+      "id": "46b0319699ed",
+      "title": "Author Talks: The biggest misconceptions about leadership",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-biggest-misconceptions-about-leadership",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "What if success depends less on talent than on luck, resilience, and your choices when things go wrong? Former Inflection CEO Mike Grossman challenges conventional wisdom about success and leadership.",
+      "has_full_text": false
+    },
+    {
+      "id": "b204b160d9c6",
+      "title": "2026年AI行业月度观察报告（6月期）",
+      "url": "https://www.jazzyear.com/study_info.html?id=171",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "案例征集\n                        请附上公司简介、业务介绍等相关资料及联系方式，与我们联系。\n                    联系人：郑爽\n                        微信号：Carol_zs\n                        联系电话：18600502376\n                        联系邮箱：shuang.zheng@jazzyear.com\n                    会员订阅\n                        若您有订阅报告、购买甲子智库专属会员等需求，请与我们联系。",
+      "has_full_text": true
+    },
+    {
+      "id": "507bb0fafe8d",
+      "title": "AI生成游戏会取代游戏引擎吗？Unity中国选择用AI重构游戏引擎",
+      "url": "https://www.jazzyear.com/article_info.html?id=1826",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "从开发工具到Agent底座，Unity中国重构游戏生产链。\n作者｜王博\nAI大模型公司越来越喜欢用游戏展示模型能力。\n近期发布的Kimi K3，直接将“生成可玩的多人游戏和3D游戏”作为核心能力之一，展示模型如何把概念、图片甚至视频转化为可交互体验；Anthropic发布Claude Fable 5时，也重点展示了模型长时间自主编程、根据一份提示词生成完整可玩游戏的能力。\n从生成一个可交互的网页小游戏，到根据自然语言修改角色、场景和规则，游戏几乎成了检验AI编程能力的标准项目。理由并不复杂：它同时包含代码、图像、动画、交互和逻辑，足以把模型的多模态能力直观地呈现出来。\n但在游戏行业看来，“生成",
+      "has_full_text": true
+    },
+    {
+      "id": "087d3a87d512",
+      "title": "沐曦上市背后：那些陪它穿越“死亡谷”的投资人",
+      "url": "https://www.jazzyear.com/article_info.html?id=1696",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "今天沐曦股份（下文简称“沐曦”）正式在上海证券交易所科创板挂牌上市。这是继摩尔线程之后，“国产GPU四小龙”（摩尔线程、沐曦股份、壁仞科技和燧原科技）中第二家成功上市的企业。\n数据显示，沐曦发行价104.66元/股，发行4010万股，占总股本大约10%，发行市值419亿元。上市首日，沐曦股份以700元/股开盘，高开568.83%，超过了摩尔线程上市首日的开盘价，盘中最高价一度达到895元/股。截至本日收盘，沐曦股份报829.9元/股，较发行价涨692.95%，总市值达到3320.43亿元。\n沐曦股份敲钟现场，图片来源：沐曦\n对于早期的投资人而言，沐曦的上市不仅是一次财务回报的兑现，也是一次关于",
+      "has_full_text": true
+    },
+    {
+      "id": "f97efffd3a88",
+      "title": "Mureka V9.5重磅发布，AI音乐告别“AI味”",
+      "url": "https://www.jazzyear.com/article_info.html?id=1809",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "AI音乐开始进入“审美竞争”阶段。\n作者｜周悦\n编辑｜栗子\n7月19日，昆仑万维在2026世界人工智能大会（WAIC 2026）上举办了“世界模型与多模态范式跃迁”论坛。\n这场论坛的嘉宾横跨学术、产业和文娱领域。从中国科学院院士周志华、Reactor AI CEO Alberto Taiuti，到清华大学交叉信息研究院助理教授、破壳机器人创始人许华哲、黎曼机器人创始人刘扬，再到黄晓明、王珞丹、《消失的她》导演崔睿、爱奇艺高级副总裁杨海涛和甲子光年创始人兼CEO张一甲，不同背景的嘉宾围绕技术突破、内容生产和产业落地展开讨论。\n当天，昆仑万维发布和升级了三款模型：可交互世界模型Matrix-3.5",
+      "has_full_text": true
+    },
+    {
+      "id": "aafc10d99524",
+      "title": "AI 自主破解数学猜想，离哥德巴赫猜想还有多远？",
+      "url": "https://www.jazzyear.com/article_info.html?id=1806",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "AI 自主破解数学猜想，离哥德巴赫猜想还有多远？\n                \n            - \n                        \n                        31770\n- \n                        \n                        2101\n- \n                        \n                        1008\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "3c1e4eede53c",
+      "title": "AI办公平权：灵犀专业版让普通人不必成为AI专家",
+      "url": "https://www.jazzyear.com/article_info.html?id=1823",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-10T00:00:00+00:00",
+      "summary": "懂你的上下文、高质量交付、专业Office操作。\n作者｜王博\n2026世界人工智能大会（WAIC）的展馆里，很多AI公司的展台几乎都在做同一件事：让观众对着屏幕说一句话，然后等AI生成点什么。\n尤其是在AI办公领域，观众输入一句话，几分钟后得到一份图文并茂的PPT，或者一张带着漂亮图表的数据看板，已经算不上稀奇。\n但真实办公流程很少止于“生成”。\n一项任务从资料收集开始，经过分析、创作、沟通、修改，最后才会变成一份可以交付的文件，沉淀复盘后的经验还要用于之后的任务中。可以设想一下，在这个办公流程闭环中，一个真人助理需要具备哪些能力？\n最基本的标准是：懂你、能交付、专业。\n但现实中，只有一部分人",
+      "has_full_text": true
+    },
+    {
       "id": "dfa46cb6c35a",
       "title": "How to close the agentic adoption gap",
       "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap",
@@ -119,6 +339,17 @@
       "via": "",
       "date": "2026-08-06T00:00:00+00:00",
       "summary": "RGMx helped Reckitt improve pricing, promotions, and assortment. Smart Execution helps those choices land at the point of sale by using AI and data to strengthen product availability and retailer partnerships.",
+      "has_full_text": false
+    },
+    {
+      "id": "f94299e3d327",
+      "title": "The $106 trillion infrastructure opportunity: Private market outlook",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-106-trillion-dollar-infrastructure-opportunity-private-market-outlook",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-06T00:00:00+00:00",
+      "summary": "Infrastructure is at a pivotal inflection point: its definition is expanding beyond traditional assets to digital and interconnected systems, demanding a fundamental mindset shift by governments, investors, and operators to plan, fund, and maintain integrated infrastructure that supports future growth and resilience. Join Alastair Green and Adrian Kwok as they discuss the latest findings from our 2026 Global Private Markets Report and take stock of the latest trends in the sector.",
       "has_full_text": false
     },
     {
@@ -306,6 +537,17 @@
       "via": "",
       "date": "2026-07-30T00:00:00+00:00",
       "summary": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
+      "has_full_text": false
+    },
+    {
+      "id": "bf0aa60d880b",
+      "title": "How to maximize competitive advantage",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-maximize-competitive-advantage",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-07-30T00:00:00+00:00",
+      "summary": "Competitive advantage is becoming much more fluid as market positions shift faster across industries, with advantages eroding and differentiation narrowing. Despite this increased volatility, companies often fail to actively monitor shifts in their competitive edge. Join Matt Banholzer and Laura LaBerge as they discuss their latest research on the erosion of competitive advantage and share what companies can do to maximize their edge over peers.",
       "has_full_text": false
     },
     {
