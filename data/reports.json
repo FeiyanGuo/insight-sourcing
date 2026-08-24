@@ -1,6 +1,127 @@
 {
   "reports": [
     {
+      "id": "2215e06b5504",
+      "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
+      "has_full_text": false
+    },
+    {
+      "id": "98e85f388847",
+      "title": "Earning and sustaining trust in the age of AI",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/earning-and-sustaining-trust-in-the-age-of-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "Invesco President and CEO Andrew Schlossberg argues that AI should be part of a firm’s strategy, not on the sidelines, and that trust, once lost, is hard to win back.",
+      "has_full_text": false
+    },
+    {
+      "id": "b82b6c70ea4f",
+      "title": "一场火，让公众对动力电池安全的信任“倒退十年”｜甲子光年",
+      "url": "https://www.jazzyear.com/article_info.html?id=1593",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "一场离奇的起火事故，与一个被忽视的电池安全细节。\n作者｜张麟\n编辑｜王博\n“对三元锂彻底失去信心了。”“只有811才恐怖。”“电池设计太过激进。”\n刚刚过去的这个周末，社交媒体上关于新能源车动力电池的讨论达到了空前的热度。\n小红书上讨论动力电池安全的笔记，图片来源：小红书截图\n这些讨论的直接导火索是理想MEGA失火事故。10月23日晚，上海一辆理想MEGA在正常驾驶时，车辆底部突然出现火花及火苗，并且蔓延迅速，火焰在10秒内火完全吞没整个车身。万幸的是，车上两名驾乘人员及时逃生，没有造成人员伤亡。\n据澎湃新闻报道，10月24日，理想汽车方面针对最新发生的MEGA起火事故回应称：“事故发生时，车",
+      "has_full_text": true
+    },
+    {
+      "id": "60ddf395d3f2",
+      "title": "在WAIC，聊聊具身智能的“量产元年”与“中国式拐点”",
+      "url": "https://www.jazzyear.com/article_info.html?id=1829",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "从“观势、立核”到“聚能、定调”。\n作者｜沈伊人\n编辑｜栗子\n2026年7月19日，上海世博展览馆，一场以具身智能为主角的盛会如约而至——「WAIC2026上海马桥人工智能创新试验区·具身智能产业生态论坛」在此举办。\n本次论坛由上海市经济和信息化委员会、闵行区人民政府、世界人工智能大会组委会办公室指导，上海马桥人工智能创新试验区、闵行区经济委员会、马桥镇人民政府主办，甲子光年协办。科学家、企业家、产业专家、投资机构与创新企业代表齐聚一堂，围绕具身智能如何从技术概念走向产业实践这一核心命题，展开了一场层层递进的深度对话。\n如果说过去一年具身智能的关键词是“百模大战”，那么今年，行业的关键词只剩下",
+      "has_full_text": true
+    },
+    {
+      "id": "436065e82192",
+      "title": "北大教授董彬：没有人可以看到数学的全貌，即便陶哲轩",
+      "url": "https://www.jazzyear.com/article_info.html?id=1821",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "北大教授董彬：没有人可以看到数学的全貌，即便陶哲轩\n                \n            - \n                        \n                        30944\n- \n                        \n                        5300\n- \n                        \n                        2000\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "eaec65ebbea8",
+      "title": "聪明、懂我、啥都能干，今年WAIC我的AI办公助理升级了",
+      "url": "https://www.jazzyear.com/article_info.html?id=1810",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "聪明、懂我、啥都能干，今年WAIC我的AI办公助理升级了\n                \n            - \n                        \n                        32417\n- \n                        \n                        328\n- \n                        \n                        502\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "5d1c73e74aa2",
+      "title": "Advancing American healthcare: An interview with Seema Verma",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-19T00:00:00+00:00",
+      "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care.",
+      "has_full_text": false
+    },
+    {
+      "id": "156277b9c8c3",
+      "title": "Some hard questions about a world of plenty",
+      "url": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-19T00:00:00+00:00",
+      "summary": "Plenty may be possible—but what would it take to make it probable?",
+      "has_full_text": false
+    },
+    {
+      "id": "8c9d31ff50b0",
+      "title": "Michelle Williams on why public health is public wealth",
+      "url": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-19T00:00:00+00:00",
+      "summary": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built.",
+      "has_full_text": false
+    },
+    {
+      "id": "0f751fed9225",
+      "title": "Reinventing the European pulp and paper operating model",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-18T00:00:00+00:00",
+      "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation.",
+      "has_full_text": false
+    },
+    {
+      "id": "43134d83207e",
+      "title": "Governing AI with intention in the social impact sector",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-17T00:00:00+00:00",
+      "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued.",
+      "has_full_text": false
+    },
+    {
       "id": "72345d89be95",
       "title": "Driving value with an investor mindset",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
