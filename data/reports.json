@@ -1,6 +1,127 @@
 {
   "reports": [
     {
+      "id": "8a8c2d69a411",
+      "title": "The new management playbook for AI: How to move faster and create more value",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-28T00:00:00+00:00",
+      "summary": "Scale is where the value is. Enabling scale depends on how strong your foundations are.",
+      "has_full_text": false
+    },
+    {
+      "id": "f4a83d99dd15",
+      "title": "An update on US consumer sentiment: Holiday budgeting begins",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/the-state-of-the-us-consumer",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-27T00:00:00+00:00",
+      "summary": "Despite being wary about the economy, consumers plan to spend the same or more on holiday shopping as they did last year. Here’s the latest research from our ConsumerWise team.",
+      "has_full_text": false
+    },
+    {
+      "id": "46e692cd0c6d",
+      "title": "Pacsun’s Gen Z playbook: Listen, learn, and let go",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/pacsuns-gen-z-playbook-listen-learn-and-let-go",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-27T00:00:00+00:00",
+      "summary": "Brieane Olson, CEO of the US-based clothing retailer, says the secret to the company’s success is community cocreation—which can work in other industries, too.",
+      "has_full_text": false
+    },
+    {
+      "id": "7566d58d447b",
+      "title": "Consumers don’t trust AI advice. They turn to it anyway.",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/consumers-dont-trust-ai-advice-they-turn-to-it-anyway",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-27T00:00:00+00:00",
+      "summary": "Consumer behavior is more dynamic and unpredictable than ever. Our latest research highlights four converging trends redefining how consumers shop, what they value, and why they buy.",
+      "has_full_text": false
+    },
+    {
+      "id": "e9b9f73acf2b",
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "As the current playbook reaches its limits, international payments is transitioning from a stand-alone product to a feature embedded in broader services. Here is how industry players can make the pivot.",
+      "has_full_text": false
+    },
+    {
+      "id": "19c974e90ab7",
+      "title": "The decision dividend: How AI creates economic value",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "AI’s largest gains rarely come from labor savings alone. They come from faster decisions, better use of existing assets, and opportunities that would otherwise be missed.",
+      "has_full_text": false
+    },
+    {
+      "id": "33e11e1f19ad",
+      "title": "Your AI agents need performance management, too",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
+      "has_full_text": false
+    },
+    {
+      "id": "abaea585dde6",
+      "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-25T00:00:00+00:00",
+      "summary": "AI could unlock $230 billion for oil and gas and OFSE companies. The challenge is where to concentrate, how to scale, and how to share value when efficiency reduces the activity that many contracts reward.",
+      "has_full_text": false
+    },
+    {
+      "id": "bbd5bb610ce8",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-25T00:00:00+00:00",
+      "summary": "Organizations are deploying agentic coding tools and coming to grips with the costs of AI while still seeking to capture more of the benefits that their workers are deriving from their individual use of AI.",
+      "has_full_text": false
+    },
+    {
+      "id": "dd3f71685e3a",
+      "title": "McKinsey’s Fangning Zhang on China’s growing role in life sciences R&D",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/mckinseys-fangning-zhang-on-chinas-growing-role-in-life-sciences-r-and-d",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-25T00:00:00+00:00",
+      "summary": "McKinsey Partner Fangning Zhang discusses what’s driving China’s acceleration in drug discovery, why intense competition is fueling speed and cost efficiency, and what global R&D leaders need to do to build a genuine China strategy.",
+      "has_full_text": false
+    },
+    {
+      "id": "4a6856083c47",
+      "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-24T00:00:00+00:00",
+      "summary": "Early experience implementing agentic workflows highlights emerging trade-offs that frontline leaders need to understand.",
+      "has_full_text": false
+    },
+    {
       "id": "2215e06b5504",
       "title": "Beyond the copilot: Scaling the agentic product development life cycle",
       "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
@@ -64,6 +185,39 @@
       "via": "",
       "date": "2026-08-20T00:00:00+00:00",
       "summary": "聪明、懂我、啥都能干，今年WAIC我的AI办公助理升级了\n                \n            - \n                        \n                        32417\n- \n                        \n                        328\n- \n                        \n                        502\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "3e8110c4e15f",
+      "title": "爆款背后的秘密：瑞幸如何用AI重塑咖啡生意？",
+      "url": "https://www.jazzyear.com/article_info.html?id=1496",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "不是用AI讲故事，而是用科技持续提高效率和体验。\n作者｜田思奇\n编辑｜栗子\n在当今消费市场，能否实现新品即爆款、爆款即现象，已成为品牌成败的分水岭。\n很多人好奇，4年卖出13亿杯生椰拿铁的瑞幸，到底有什么秘密，能在竞争激烈的市场中一次次跑出爆款，还能维持长久的热度？\n在迅猛扩张中，瑞幸将咖啡这门传统生意重新定义为高度数字化、精准预测、智能决策的商业系统。消费者所见的新品不断上架与流畅购买体验背后，是以AI为核心的后台运作能力。这也正成为品牌拉开竞争差距的关键。\n一路狂奔的背后，瑞幸也离不开重要伙伴华为云的支持。\n在新品爆发、高峰流量冲击、出海扩张等关键节点，瑞幸通过华为云获得了算力保障，共同完",
+      "has_full_text": true
+    },
+    {
+      "id": "0e40988153b3",
+      "title": "3个月造出全新产品线，曦诺未来的技术复利从哪来？",
+      "url": "https://www.jazzyear.com/article_info.html?id=1846",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "一以贯之的第一性思考。\n作者｜刘杨楠\n编辑｜栗子\nWRC 2026期间，曦诺未来发布了全新系列产品——纯直驱灵巧手Prima 1。距离这家公司发布混驱灵巧手Flex 2，只过去了3个月。\n这家成立不到两年的公司，已完成4轮融资，累计金额近15亿元，股东名单集齐新能源产业资本、互联网及科技大厂、顶级券商资本、头部财务VC，老股东也持续追加。\n目前，曦诺未来在手订单量已过万台，Prima系列发布即火热；5400平米新工厂已投产爬坡，年产能将达10000台。\n在稳步扩张的业务基本盘之上，曦诺未来在科研领域又落关键一子，在短短3个月内布局纯直驱路线，并完成产品落地。这背后既是对细分市场需求的精准判断，",
+      "has_full_text": true
+    },
+    {
+      "id": "a9471eb3bfe3",
+      "title": "阿里Wan3.0，向生产力工具再进一大步",
+      "url": "https://www.jazzyear.com/article_info.html?id=1839",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-08-20T00:00:00+00:00",
+      "summary": "稳定可用是创作者们不变的刚需。\n作者｜刘杨楠\n作者｜栗子\n8月6日，阿里巴巴全新一代视频生成模型Wan3.0开启公测。\n从官方披露的信息看，这次升级覆盖生成时长、万能创作+全能参考与真实感三个维度——\n单次可生成30秒视频，让连续运镜、一镜到底等复杂镜头语言得以完整表达；万能创作打通文本、图片、音频、视频多模态输入，并首次支持doc、xls、ppt、pdf、md等结构化文档；全能参考任务中，角色、道具、声音、空间关系与风格等细粒度维度可稳定保持；真实世界还原能力提升，人物力求“千人千面”，每一帧画面既真实又可信。\n这三个维度的升级，几乎逐条对应了当前AI视频生产的几道顽固痛点——生成时长不足、",
       "has_full_text": true
     },
     {
