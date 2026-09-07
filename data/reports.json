@@ -1,6 +1,237 @@
 {
   "reports": [
     {
+      "id": "a5c9021c1276",
+      "title": "GS Caltex’s Saehong Hur: Leading from the top; moving forward—together",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/gs-caltexs-saehong-hur-leading-from-the-top-moving-forward-together",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-07T00:00:00+00:00",
+      "summary": "For Saehong Hur, continued communication and an integrated mindset are vital for adapting to changing market needs and maximizing value.",
+      "has_full_text": false
+    },
+    {
+      "id": "06120d8d5aa7",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "European utilities face a period of discontinuity: Electrification, renewables, flexibility needs, AI, and policy shifts are reshaping economics, driving four strategic responses as industry structure is redefined.",
+      "has_full_text": false
+    },
+    {
+      "id": "388eb5ad8cba",
+      "title": "Voices on Quality: Unlocking warranty value in consumer automotive",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-quality-unlocking-warranty-value-in-consumer-automotive",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "Warranty and goodwill costs automotive OEMs billions each year, but a more strategic approach can deliver significant P&L and cash impact within 12 to 24 months.",
+      "has_full_text": false
+    },
+    {
+      "id": "802d5a7340d6",
+      "title": "对话它石智航丁文超：拒绝做机器人的“简单题”",
+      "url": "https://www.jazzyear.com/article_info.html?id=1851",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "具身最终还是要发挥价值，说白了是GDP逻辑，单位时间能干多少事。\n“甜蜜的毒药”。丁文超用这个词形容具身智能公司拓场景时最容易踩进去的坑。\n一个新场景，表面上意味着新客户、新收入。但真正做进去，硬件要稳，数据要补，模型还要能泛化。场景越多，交付越乱，单点做不透，能力也很难外溢。\n这种警惕，来自丁文超在自动驾驶里的教训。2020年，他入选华为“天才少年计划”，进入车BU做智驾。\n那几年正是自动驾驶从前沿技术走向规模化产品的关键期，他亲眼见过场景一旦铺开、交付会变得多复杂。“我的经验是，一切东西都要能够规模化。规模化不了，将来卖给用户会很折磨。”\n带着这种判断，线束装配很早就进入了它石智航（下称“",
+      "has_full_text": true
+    },
+    {
+      "id": "a42f8c382a2c",
+      "title": "从世界模型到工业决策大脑，AI走进纺织车间",
+      "url": "https://www.jazzyear.com/article_info.html?id=1828",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "决策AI试图突破大模型的表达边界，让未来的多种路径变得可推演。\n作者｜黄琪丹\n一张来自海外客户的订单进入柯桥一家纺织企业：面料规格、颜色、数量和交期已经确定，但真正困难的工作才刚刚开始。\n这批订单应该分配到哪条产线？使用哪台设备、哪口染缸？怎样安排颜色顺序，才能减少洗缸、换料和设备空转？如果其中一台机器出现异常，后续订单和交付计划又该如何调整？\n对工厂而言，这不是一道题，而是一组不断变化、彼此牵动的多约束决策。订单、设备、物料、工艺和人员任何一项发生变化，都可能影响整套生产方案。\n过去，这些判断主要依赖计划员、班组长和老师傅的经验。ERP、MES等系统能够记录订单和生产数据，BI能够生成报表，",
+      "has_full_text": true
+    },
+    {
+      "id": "03873837a29b",
+      "title": "对话历史学家马拉比：哈萨比斯像奥本海默，奥尔特曼比他差远了",
+      "url": "https://www.jazzyear.com/article_info.html?id=1856",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "一个看起来温和、近乎“正常”的人，却一步步走到了最接近AI权力中心的位置。\n德米斯·哈萨比斯（Demis Hassabis）拿出诺贝尔奖章，递给塞巴斯蒂安·马拉比（Sebastian Mallaby）说，无论多少钱都不换。顿了顿，他又补了一句：“现在我想拿第二个。”\n这句话里有他的野心和直率，两者都不加掩饰。\n过去三十年里，哈萨比斯先后成为国际象棋神童、游戏开发者、神经科学家、DeepMind创始人，以及诺贝尔化学奖得主。\n身份几经转换，目标却只有一个：理解智能，做出真正重要的科学发现，并被历史记住。\n单看履历，哈萨比斯很容易被写成这个时代最典型的科技天才：绝顶聪明、亿万富翁，站在全球AI竞赛",
+      "has_full_text": true
+    },
+    {
+      "id": "9f42ee49f746",
+      "title": "长程执行成具身智能必考题，墨奇的答案是Agentic-Native",
+      "url": "https://www.jazzyear.com/article_info.html?id=1842",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "墨奇首发具身模型架构MoRA，押注Agentic-Native重构双系统边界。\n作者｜周悦\n编辑｜栗子\n一个月前的WAIC，机器人演示时长明显增加了。\n去年常见的还是跑跳、抓取和搬运。今年，「甲子光年」在现场看到，药房、零售货架、工业产线、客厅和洗衣房被直接搬进展馆。有机器人用3至5分钟做完一份早餐，从烤面包、倒饮料一直做到装盘；一些工业任务，要连续完成几十个步骤。\n机器人演示，开始从一个动作变成连续干活。\n单个抓取失败，通常还能重新尝试。一条任务链上，前一步没有完成，后面几十步都可能跟着跑偏。机器人离开一个区域再回来，需要记住此前的执行状态；东西被挪走，原来的计划也未必还能照着执行。\n任务拉",
+      "has_full_text": true
+    },
+    {
+      "id": "25f8a06dc1b3",
+      "title": "2026WRC现场，我输给了一只机器狗，但我发现了它更重要的能力",
+      "url": "https://www.jazzyear.com/article_info.html?id=1837",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-04T00:00:00+00:00",
+      "summary": "2026WRC现场，我输给了一只机器狗，但我发现了它更重要的能力\n                \n            - \n                        \n                        36327\n- \n                        \n                        497\n- \n                        \n                        588\n- \n                        \n                        0\n评论",
+      "has_full_text": true
+    },
+    {
+      "id": "4cfb0814560b",
+      "title": "Shapers and founders: The traits behind outsized value creation in Asia",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-the-traits-behind-outsized-value-creation-in-asia",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "A set of common traits underlies Asian founders’ success: Passion for their work, ongoing curiosity, boundless energy, and a strong belief in their people.",
+      "has_full_text": false
+    },
+    {
+      "id": "20e89711b26b",
+      "title": "Author Talks: What the world’s best owner-CEOs get right",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-what-the-worlds-best-owner-ceos-get-right",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "How do exceptional leaders create enduring institutions? Three McKinsey authors reveal the leadership core behaviors and mindsets behind Asia’s most successful founder-CEOs—and how leaders everywhere can apply them.",
+      "has_full_text": false
+    },
+    {
+      "id": "e83168cde1f9",
+      "title": "The power of purpose, culture, and grit: An interview with JoAnne Bass",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/the-power-of-purpose-culture-and-grit-an-interview-with-joanne-bass",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "The Air Force’s former top enlisted leader reflects on the value of lifelong learning, writing your own playbook, and preparing the next generation to serve.",
+      "has_full_text": false
+    },
+    {
+      "id": "116f920f2a9f",
+      "title": "At last, customers first: AI-powered personalization can help banks create value",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/at-last-customers-first-ai-powered-personalization-can-help-banks-create-value",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "Banks can better compete against digital-first rivals by using AI to deliver more effective, hyperpersonalized customer engagement. Here are four key components of this strategy.",
+      "has_full_text": false
+    },
+    {
+      "id": "5e3839bc3aee",
+      "title": "Made in America, again? Rethinking US manufacturing resilience",
+      "url": "https://www.mckinsey.com/mgi/our-research/made-in-america-again-rethinking-us-manufacturing-resilience",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-03T00:00:00+00:00",
+      "summary": "Rebuilding American manufacturing could cost up to $2 trillion. What will it take to get today’s factories up to speed?",
+      "has_full_text": false
+    },
+    {
+      "id": "295ea0a9f298",
+      "title": "Climbing higher: Securing Switzerland’s competitiveness in a changing landscape",
+      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/climbing-higher-securing-switzerlands-competitiveness-in-a-changing-landscape",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "Switzerland remains one of Europe’s most attractive locations for multinationals—but attractiveness is no longer self-sustaining. The question is not whether it stays attractive, but whether it actively fosters the conditions that sustain it.",
+      "has_full_text": false
+    },
+    {
+      "id": "2fc1fc9ae9d3",
+      "title": "Private equity confirms a timeless principle: Purchase price matters",
+      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "Recent data shows that buyout firms that maintain strict price discipline are delivering significantly higher MOIC than their peers.",
+      "has_full_text": false
+    },
+    {
+      "id": "29877036e813",
+      "title": "Why progress is more physical than we think",
+      "url": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/why-progress-is-more-physical-than-we-think",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-02T00:00:00+00:00",
+      "summary": "From tomatoes and copper to data centers and steel, the modern economy depends on a material world hidden in plain sight.",
+      "has_full_text": false
+    },
+    {
+      "id": "364b3097445a",
+      "title": "Asia’s 75-point gap: Moving consumers from retirement angst to action",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asias-75-point-gap-moving-consumers-from-retirement-angst-to-action",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "Asians are worried about retirement but largely underprepared for it. The retirement industry can close the gap between customers’ awareness and action by rethinking traditional approaches to insurance.",
+      "has_full_text": false
+    },
+    {
+      "id": "bc9a63755cf5",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-01T00:00:00+00:00",
+      "summary": "In an expanding global energy system, the next phase of the transition will require not just more low-carbon capacity but also system-wide investment in flexibility and resilience.",
+      "has_full_text": false
+    },
+    {
+      "id": "80d28aa9a550",
+      "title": "Europe on the move: A conversation with Boerse Stuttgart Group’s CEO",
+      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/podcasts-and-videos/europe-on-the-move-a-conversation-with-boerse-stuttgart-groups-ceo",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "With 160 years of experience, Boerse Stuttgart Group is Europe’s sixth-largest exchange group, helping position Europe for the future through digital, blockchain innovation, and financial infrastructure.",
+      "has_full_text": false
+    },
+    {
+      "id": "b5069a7a429f",
+      "title": "Revolutionizing semiconductor fab operations with AI",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/revolutionizing-semiconductor-fab-operations-with-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "AI has the potential to improve build processes and operations within semiconductor fabs. Early adopters could see significant cost improvement and productivity gains.",
+      "has_full_text": false
+    },
+    {
+      "id": "2219cab81027",
+      "title": "AstraZeneca’s Bob Li on the MARS mission to eliminate cancer",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/astrazenecas-bob-li-on-the-mars-mission-to-eliminate-cancer",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-31T00:00:00+00:00",
+      "summary": "Bob Li, AstraZeneca’s Senior Vice President, Global Head of Medical Affairs, Oncology, on why only 7 percent of cancer patients get access to clinical trials, and what decentralized trials, AI, and international collaboration could do to change that within a decade.",
+      "has_full_text": false
+    },
+    {
       "id": "8a8c2d69a411",
       "title": "The new management playbook for AI: How to move faster and create more value",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-new-management-playbook-for-ai-how-to-move-faster-and-create-more-value",
@@ -78,6 +309,17 @@
       "has_full_text": false
     },
     {
+      "id": "4a8556987714",
+      "title": "Your AI agents need performance management, too",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/your-ai-agents-need-performance-management-too",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-26T00:00:00+00:00",
+      "summary": "People are at the heart of any technology transformation. Leading organizations are making changes now to help their talent—and their digital workers—thrive side by side.",
+      "has_full_text": false
+    },
+    {
       "id": "abaea585dde6",
       "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
       "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
@@ -130,6 +372,17 @@
       "via": "",
       "date": "2026-08-21T00:00:00+00:00",
       "summary": "Only a few software teams are seeing real impact from incorporating AI. The key is launching an AI-driven redesign of the entire product development system, rather than just deploying new tools.",
+      "has_full_text": false
+    },
+    {
+      "id": "346d854c5bff",
+      "title": "Reckitt’s transformation: Three moves, one strategic reset",
+      "url": "https://www.mckinsey.com/industries/retail/how-we-help-clients/reckitts-transformation-three-moves-one-strategic-reset",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-21T00:00:00+00:00",
+      "summary": "Reckitt didn’t sequence change. It did three moves at once: transforming its core, separating noncore businesses, and resetting its operating model. That decisive reset cut business complexity, accelerated decisions, and repositioned the company for stronger growth, higher margins, and sustained performance.",
       "has_full_text": false
     },
     {
@@ -383,6 +636,17 @@
       "via": "",
       "date": "2026-08-12T00:00:00+00:00",
       "summary": "We asked some of the leading players in minimobility to share their insights into what’s preventing broader adoption—and what could enable it. Here’s what they had to say.",
+      "has_full_text": false
+    },
+    {
+      "id": "4be699712f71",
+      "title": "AI transformations run on trust",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-transformations-run-on-trust",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-08-12T00:00:00+00:00",
+      "summary": "Technology may power AI transformation, but people determine whether it succeeds. Leaders can build trust through transparency, clarity, and investment in employees to create lasting change.",
       "has_full_text": false
     },
     {
