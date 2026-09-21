@@ -1,6 +1,237 @@
 {
   "reports": [
     {
+      "id": "23b5a8ab50c2",
+      "title": "对话张海星：离开特斯拉后，我要造比Optimus更像人的机器人",
+      "url": "https://www.jazzyear.com/article_info.html?id=1854",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-20T00:00:00+00:00",
+      "summary": "作者｜周悦\n编辑｜王博\n上海张江人工智能岛的一间会议室里，一幅装裱好的老式科幻海报斜靠在角落。\n海报中，两艘流线型太空飞船驶过星球，其中一艘银白色飞船还以剖面形式露出舱内乘客。那是美国“黄金时代”科幻对商业太空旅行的想象。\n这幅海报曾挂在特斯拉创始人埃隆·马斯克（Elon Musk）得克萨斯州住所的墙上，后来被张海星搬回了中国。\n矩阵超智会议室内海报，科幻杂志《Amazing Stories》1939年12月刊封面，图片来源：「甲子光年」拍摄\n张海星是人形机器人公司矩阵超智的创始人兼CEO，也曾是特斯拉中国设计研究中心的创始领导人。\n张海星很早就在关注马斯克。\n2010年前后，马斯克在公开采访",
+      "has_full_text": true
+    },
+    {
+      "id": "da7e231d44ad",
+      "title": "一年三轮数亿融资！AI新材料研发企业鼎犀智创跑出加速度",
+      "url": "https://www.jazzyear.com/article_info.html?id=1867",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-20T00:00:00+00:00",
+      "summary": "推动高性能材料研发从「经验试错」走向「智能设计」。\nAI新材料研发公司鼎犀智创（Rhinovate™）近日完成数亿元Pre-A轮融资，本轮融资由鼎晖百孚领投，九合创投、彬复资本、龙芯创投、顺禧基金、中关村资本跟投。这是继此前昆仲资本、元生创投、上海未来产业基金、晶泰科技等投资后一年内完成的第三轮融资。本轮资金将重点用于RhinoMat材料科学基础大模型及底层技术研发、多场景可编排AI智能体与自主进化实验室体系建设、碳基高性能材料放大验证，持续沉淀核心技术与实验数据。\n鼎犀智创成立于2025年，依托北京大学科研力量孵化，核心团队成员来自北京大学、清华大学、剑桥大学、斯坦福大学、麻省理工学院等，是",
+      "has_full_text": true
+    },
+    {
+      "id": "c29430c13cf4",
+      "title": "从15秒到5分钟，AI视频创作进入单反级交付时代",
+      "url": "https://www.jazzyear.com/article_info.html?id=1866",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-20T00:00:00+00:00",
+      "summary": "智象未来 vivago R1 全球上线，国内版本「够搭」全新升级发布\n2026年9月8日，智象未来（HiDream.ai）旗下内容创作智能体 vivago R1 全球上线，国内版本「够搭」全新升级发布。\n一周之后的 9月15日，智象再度亮出模型佳绩：正式发布原生全模态视频生成模型 HiDream-O1-Video-1.0。该模型在全球权威的两大模型榜单名列前茅，在 Artificial Analysis 图生视频模型排名前四，Arena.ai 图生视频竞技场排名第 8，跻身全球视频生成模型第一梯队。从智能体产品到底层视频生成模型，智象“基础模型 + 智能体”双轮驱动的技术战略，正在同时提速。",
+      "has_full_text": true
+    },
+    {
+      "id": "b39572864613",
+      "title": "Author Talks: How to turn hope into action",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-how-to-turn-hope-into-action",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "What compels us to act when we see a problem? Draper Richards Kaplan Foundation CEO Jim Bildner reflects on social entrepreneurship, personal loss, and how hope can move us to act.",
+      "has_full_text": false
+    },
+    {
+      "id": "e21fd8a1814a",
+      "title": "Social care referral networks: Improving health in rural communities",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/social-care-referral-networks-improving-health-in-rural-communities",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "Six design dimensions can help states stand up social care referral networks that meaningfully improve health outcomes for Medicaid members in rural and underserved communities.",
+      "has_full_text": false
+    },
+    {
+      "id": "e3eecd6eebde",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "A new era of increased demand and constrained supply is fundamentally changing the global transformer market and reshaping decision-making across the value chain.",
+      "has_full_text": false
+    },
+    {
+      "id": "51e8a0c23680",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "AI is fueling unprecedented semiconductor growth while upending long-standing industry dynamics and shifting the sources of value.",
+      "has_full_text": false
+    },
+    {
+      "id": "39c75abd33da",
+      "title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-18T00:00:00+00:00",
+      "summary": "Organizations must redesign workflows to realize value from AI, but the challenge is where to begin. An opportunity lies between workflow steps, where work passes between teams and systems.",
+      "has_full_text": false
+    },
+    {
+      "id": "a4c8b20e7b9f",
+      "title": "The CMO as impact driver: A conversation with Genentech CMO Zoë Lazarre",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-cmo-as-impact-driver-a-conversation-with-genentech-cmo-zoe-lazarre",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "Genentech’s chief marketing officer discusses AI, the future of marketing, patient trust, and why growth depends as much on culture as technology.",
+      "has_full_text": false
+    },
+    {
+      "id": "157204b5d208",
+      "title": "Why transformations stall—and where only CEOs make the difference",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-transformations-stall-and-where-only-ceos-make-the-difference",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "Five common behavioral patterns can cause change efforts to falter. Know the warning signs—and what to do about them.",
+      "has_full_text": false
+    },
+    {
+      "id": "bfc52fdf3d73",
+      "title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "As enterprises shift from experimenting with models to redesigning workflows, new research suggests Europe could be well-positioned for this new AI application era.",
+      "has_full_text": false
+    },
+    {
+      "id": "a93d364408ec",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "The energy system has proven surprisingly resilient, but shock absorbers are thinning. Energy security has no easy exits but room to maneuver.",
+      "has_full_text": false
+    },
+    {
+      "id": "a30b990ded2e",
+      "title": "Here’s why some US industrial companies achieve higher multiples",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/heres-why-some-us-industrial-companies-achieve-higher-multiples",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-17T00:00:00+00:00",
+      "summary": "Not every industrial company in a high-growth market earns a higher valuation. The biggest winners consistently combine four management actions.",
+      "has_full_text": false
+    },
+    {
+      "id": "7c4e9f7def8a",
+      "title": "The agentic transformation office: Redefining the economics of change",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/the-agentic-transformation-office-redefining-the-economics-of-change",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-16T00:00:00+00:00",
+      "summary": "Successful transformations no longer require an army of people at the center.",
+      "has_full_text": false
+    },
+    {
+      "id": "a9f7ad398627",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-16T00:00:00+00:00",
+      "summary": "Client loyalty evolves quickly. Leading banks are reclaiming the 12 to 25 percent of wallet share that changes hands every year instead of letting it drift.",
+      "has_full_text": false
+    },
+    {
+      "id": "60f67dd6240b",
+      "title": "The decade to redefine UK banking",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-16T00:00:00+00:00",
+      "summary": "UK banks have never been more profitable—but have rarely been more exposed. Success depends on securing customers and deposits, winning the commercial transaction layer, and rebuilding the cost base.",
+      "has_full_text": false
+    },
+    {
+      "id": "5d553b2e3cd3",
+      "title": "The strategic new arenas reshaping insurance",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-15T00:00:00+00:00",
+      "summary": "AI is not the only significant driver of change for insurers: 18 high-growth industries present major new opportunities even as they reconfigure industry economics.",
+      "has_full_text": false
+    },
+    {
+      "id": "6429f8b7833b",
+      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-15T00:00:00+00:00",
+      "summary": "As their portfolios become more complex and productivity gains slow, biopharma manufacturers are investing heavily to keep pace with rising demand. But capacity alone will not solve the problem.",
+      "has_full_text": false
+    },
+    {
+      "id": "e2d049db7a9c",
+      "title": "Author Talks: Read the room before you lead it",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-read-the-room-before-you-lead-it",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-15T00:00:00+00:00",
+      "summary": "Are the signals that shape power, trust, and influence hiding in plain sight? Calibrate CEO Pamela Meyer says spotting them can help leaders avoid missteps and make better decisions.",
+      "has_full_text": false
+    },
+    {
+      "id": "b74191715b75",
+      "title": "McKinsey Technology Trends Outlook 2026",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-top-trends-in-tech",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-15T00:00:00+00:00",
+      "summary": "Which frontier technologies matter most for companies in 2026? Our annual report highlights the latest technology innovations, developments, and talent trends and their potential impact on business and society.",
+      "has_full_text": false
+    },
+    {
+      "id": "b100cc96f09f",
+      "title": "Andrew McAfee on AI, jobs, and ‘permissionless innovation’",
+      "url": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/andrew-mcafee-on-ai-jobs-and-permissionless-innovation",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-15T00:00:00+00:00",
+      "summary": "What if the biggest risk isn’t too much technological progress—but too little?",
+      "has_full_text": false
+    },
+    {
       "id": "fd3ffdff271d",
       "title": "Australia’s next century of plenty",
       "url": "https://www.mckinsey.com/au/our-insights/australias-next-century-of-plenty",
@@ -9,6 +240,17 @@
       "via": "",
       "date": "2026-09-14T00:00:00+00:00",
       "summary": "Australia’s prosperity has been built through deliberate choices, investment, and reinvention. After a lost decade of growth, the nation can draw on its strengths to choose another century of plenty.",
+      "has_full_text": false
+    },
+    {
+      "id": "92ed5dbf2b12",
+      "title": "Stacking the odds: A blueprint for successfully scaling agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/stacking-the-odds-a-blueprint-for-successfully-scaling-agentic-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-14T00:00:00+00:00",
+      "summary": "Many enterprises are scaling AI agents faster than they are redesigning the work underneath. A detailed blueprint supports the rollout and lays the groundwork for lasting value creation.",
       "has_full_text": false
     },
     {
