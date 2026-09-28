@@ -1,6 +1,193 @@
 {
   "reports": [
     {
+      "id": "a4a2ba19d42d",
+      "title": "Billion-dollar beauty: The odds of scaling a breakout brand",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/billion-dollar-beauty-the-odds-of-scaling-a-breakout-brand",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-24T00:00:00+00:00",
+      "summary": "Our new analysis reveals the odds of reaching $1 billion in sales—and how the paths to that milestone differ by category and ownership.",
+      "has_full_text": false
+    },
+    {
+      "id": "57fe49089b78",
+      "title": "The new growth mandate: A conversation with LinkedIn CMO Jessica Jensen",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-new-growth-mandate-a-conversation-with-linkedin-cmo-jessica-jensen",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-24T00:00:00+00:00",
+      "summary": "At Cannes Lions 2026, LinkedIn CMO Jessica Jensen and McKinsey senior partner Dianne Esber discussed what it takes to turn AI from experimentation into a catalyst for growth.",
+      "has_full_text": false
+    },
+    {
+      "id": "45c4118f93c4",
+      "title": "Democratized superintelligence is coming: The world needs to get ready",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/democratized-superintelligence-is-coming-the-world-needs-to-get-ready",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-24T00:00:00+00:00",
+      "summary": "Bret Taylor, Sierra cofounder and OpenAI chair, believes AI’s near-term cybersecurity risks are real but solvable, and its greater power lies in delivering the world’s best knowledge to everyone.",
+      "has_full_text": false
+    },
+    {
+      "id": "87a2bf0f63fb",
+      "title": "Harnessing AI to make mining safer",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "AI could improve both safety and productivity by anticipating problems before they arise, detecting worker fatigue, and automating dangerous tasks.",
+      "has_full_text": false
+    },
+    {
+      "id": "c740e18b7832",
+      "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "Embedding the latest AI and technology within day-to-day operations is transforming maintenance from a cost center into a significant driver of value.",
+      "has_full_text": false
+    },
+    {
+      "id": "47b7685329b4",
+      "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "As India’s economy continues to ramp up, insurers have an opportunity to capture value by improving productivity, modernizing operating models, and scaling technology and AI across the enterprise.",
+      "has_full_text": false
+    },
+    {
+      "id": "c87a5def691c",
+      "title": "Author Talks: The business of owning a sports team",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-business-of-owning-a-sports-team",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "How does business ownership compare with owning a sports team? Baltimore Orioles owner David M. Rubenstein explains the leadership mindset, culture building, and long-term thinking that team ownership requires.",
+      "has_full_text": false
+    },
+    {
+      "id": "20afc2936916",
+      "title": "Rewiring procurement in resources: Making judgment an enduring asset",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-procurement-in-resources-making-judgment-an-enduring-asset",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-23T00:00:00+00:00",
+      "summary": "For procurement leaders in the resources sector, using AI to codify the function’s category expertise does not just capture more value—it turns hard-won judgment into a compounded, durable advantage.",
+      "has_full_text": false
+    },
+    {
+      "id": "c49932adf60b",
+      "title": "Powering through uncertainty: A talk with former US Energy Secretary Ernest Moniz",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-through-uncertainty-a-talk-with-former-us-energy-secretary-ernest-moniz",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "The physicist and policymaker says the coming decade will be defined by a race for electrons—and that nuclear power, grid investment, and new public–private models will be part of the picture.",
+      "has_full_text": false
+    },
+    {
+      "id": "7ed67e843ef0",
+      "title": "Winning hearts in an age of infinite travel choices",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/winning-hearts-in-an-age-of-infinite-travel-choices",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "Travelers’ discovery and booking journeys have been reshaped. How can travel players show up at every turn on the path from search to certainty?",
+      "has_full_text": false
+    },
+    {
+      "id": "ef1a2801f39b",
+      "title": "The future of healthy living: A $16.4 trillion opportunity",
+      "url": "https://www.mckinsey.com/mhi/our-insights/the-future-of-healthy-living-a-16-4-trillion-opportunity",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "New McKinsey Health Institute analysis finds that addressing modifiable risk factors could add 12 years to healthy life expectancy at birth and add nearly 9 percent to the global economy by 2050.",
+      "has_full_text": false
+    },
+    {
+      "id": "375e6509cdde",
+      "title": "Ready to ramp? How US manufacturers can scale at pace",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/ready-to-ramp-how-us-manufacturers-can-scale-at-pace",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "US manufacturers have a once-in-a-generation opportunity to reshore the production of critical and at-risk goods, but to do so, they will need to aggressively ramp up production from today’s levels.",
+      "has_full_text": false
+    },
+    {
+      "id": "c98abd00b61f",
+      "title": "Value is the compass. Consumers set the pace.",
+      "url": "https://www.mckinsey.com/cn/our-insights/our-insights/value-is-the-compass-consumers-set-the-pace",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-22T00:00:00+00:00",
+      "summary": "The 10th edition of McKinsey’s automotive consumer survey: China’s car buyers reveal where value is heading—and why the road ahead is exciting for consumers everywhere.",
+      "has_full_text": false
+    },
+    {
+      "id": "def778226f9b",
+      "title": "The economics of AI",
+      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-the-economics-of-ai",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "AI is getting more expensive for companies. As rising token usage and workflow complexity make costs harder to predict, leaders need new ways to manage AI economics.",
+      "has_full_text": false
+    },
+    {
+      "id": "0e3f2801627d",
+      "title": "WIRED: The AI playbook top companies use",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/wired-the-ai-playbook-top-companies-use",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "WIRED’s Katie Drummond talks with McKinsey’s Dan Swan about why capturing AI’s full potential requires companies to move beyond experimentation and fundamentally rewire their businesses.",
+      "has_full_text": false
+    },
+    {
+      "id": "f89458f6aff8",
+      "title": "AI drug discovery: Focusing on what matters most",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "AI is accelerating drug discovery, but investment has concentrated in molecule design—the stage with the best data and clearest tools. The industry’s real constraint lies elsewhere: identifying and validating the right disease mechanism.",
+      "has_full_text": false
+    },
+    {
+      "id": "cbd632a2decc",
+      "title": "Novartis’s Christian Diehl on scaling AI beyond the demo",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/novartiss-christian-diehl-on-scaling-ai-beyond-the-demo",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-21T00:00:00+00:00",
+      "summary": "Novartis’s chief data and digital officer for biomedical research explains how data platform investments are paying off in AI safety prediction, generative chemistry, and faster translation.",
+      "has_full_text": false
+    },
+    {
       "id": "23b5a8ab50c2",
       "title": "对话张海星：离开特斯拉后，我要造比Optimus更像人的机器人",
       "url": "https://www.jazzyear.com/article_info.html?id=1854",
