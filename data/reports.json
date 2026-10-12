@@ -1,6 +1,127 @@
 {
   "reports": [
     {
+      "id": "94a8b2e77c36",
+      "title": "The six strategy roles a CEO must not delegate",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-09T00:00:00+00:00",
+      "summary": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+      "has_full_text": false
+    },
+    {
+      "id": "8b22264f7677",
+      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
+      "url": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-09T00:00:00+00:00",
+      "summary": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their businesses to achieve resilience, seize growth, and build competitive advantage.",
+      "has_full_text": false
+    },
+    {
+      "id": "fe7d170c17d8",
+      "title": "For CPG companies, agentic AI’s real payoff is growth",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-09T00:00:00+00:00",
+      "summary": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost sales. But are leaders ready to harness the technology’s power?",
+      "has_full_text": false
+    },
+    {
+      "id": "5fa7912547e5",
+      "title": "Shapers and Founders: Understanding the owner mindset",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-08T00:00:00+00:00",
+      "summary": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing their businesses.",
+      "has_full_text": false
+    },
+    {
+      "id": "e24331ab7653",
+      "title": "The playbook for seeing around geopolitical corners",
+      "url": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-08T00:00:00+00:00",
+      "summary": "From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to see them coming.",
+      "has_full_text": false
+    },
+    {
+      "id": "dc11875099f8",
+      "title": "Why AI’s easiest wins are misleading CEOs",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-07T00:00:00+00:00",
+      "summary": "",
+      "has_full_text": false
+    },
+    {
+      "id": "f9676d125052",
+      "title": "Using production rates to excel at executing construction projects",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-06T00:00:00+00:00",
+      "summary": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to optimize schedules, improve productivity, and make delivery predictable.",
+      "has_full_text": false
+    },
+    {
+      "id": "b276613ab589",
+      "title": "Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-06T00:00:00+00:00",
+      "summary": "From shipping and rare earths to energy and security, the Arctic is gaining importance in the global economy. The Financial Times’ Rana Foroohar explores its role in a new era of great-power competition.",
+      "has_full_text": false
+    },
+    {
+      "id": "e21e7bdf9fe9",
+      "title": "Medtech needs more than a market rotation to win back investors",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-06T00:00:00+00:00",
+      "summary": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies and better execution.",
+      "has_full_text": false
+    },
+    {
+      "id": "d235b5a9e5aa",
+      "title": "Scaling AI inference",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
+      "has_full_text": false
+    },
+    {
+      "id": "93fb60905738",
+      "title": "AI is changing work. Now it has to change the organization",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-10-05T00:00:00+00:00",
+      "summary": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing the larger opportunity from agentic AI will require leaders to rethink the shape of the organization itself.",
+      "has_full_text": false
+    },
+    {
       "id": "bfe5772a231a",
       "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
@@ -240,6 +361,39 @@
       "via": "",
       "date": "2026-09-29T00:00:00+00:00",
       "summary": "时代的水流从不等待犹豫者。\n8月20日，由中国科技产业智库「甲子光年」主办的“激流——2026甲子引力X科技产业投资大会”在北京金茂万丽酒店举行。\n2026年是中国科技投资由退潮转向涨潮的一年。去年此时，一级市场还站在潮水退去后的“渡口”上辨认方向。而今年，水位在涨，流速变快，募投退三端同步修复，AI与硬科技成为资金最集中的流向。\n但水位越高，头部效应越强；流速越快，判断失效也越快。港股与A股的退出通道重新打开，国有资本与产业资本成为市场的中坚力量，一级市场与二级市场的估值联动被重新审视，新的定价体系正在形成。\n本次大会以“入流”“破浪”“定锚”三个篇章展开，通过一场趋势报告、两场主旨演讲、一",
+      "has_full_text": true
+    },
+    {
+      "id": "606638ab9355",
+      "title": "LATAM’s reinvention at 35,000 feet",
+      "url": "https://www.mckinsey.com/industries/travel/how-we-help-clients/latams-reinvention-at-35000-feet",
+      "source": "麦肯锡",
+      "category": "战略/综合",
+      "via": "",
+      "date": "2026-09-29T00:00:00+00:00",
+      "summary": "Partnering with McKinsey, the airline rewired its organization to make digital and AI core parts of the business—transforming the passenger experience, accelerating growth, and unlocking new levels of operations performance.",
+      "has_full_text": false
+    },
+    {
+      "id": "6bc6750567b1",
+      "title": "闭源模型天花板要被开源模型捅破了？深度机智PhysBrain 1.5，打通“理解、动作、预测”物理智能循环",
+      "url": "https://www.jazzyear.com/article_info.html?id=1863",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-29T00:00:00+00:00",
+      "summary": "深度机智自研架构，把“让模型理解世界并理解如何行动”这件事真正做扎实。\nGPT-6的发布，把大语言模型的能力边界又一次推向了新的高度。\n推理、编程与多模态理解的接连突破，让行业看到通用智能的演进仍在提速。不过，当模型能力在数字世界里被反复验证之后，一个更本质的问题随之浮现：一个足够理解世界的模型，究竟能不能在真实世界中行动？\nRobocurve做过一组机械臂测试：在20次积木放碗任务中，GPT-6 Astra成功19 次，而Claude Fable 5.1在同一任务里只完成8次。\n测试中，模型读取摄像头画面与机器人状态，给出末端的位置、姿态和夹爪指令，再根据新的视觉反馈持续调整动作。大语言模型",
+      "has_full_text": true
+    },
+    {
+      "id": "5ee991670ba1",
+      "title": "从产品在线到数据产线，制造业如何让经验持续获得复利",
+      "url": "https://www.jazzyear.com/article_info.html?id=1874",
+      "source": "甲子光年(官网)",
+      "category": "科技/AI",
+      "via": "",
+      "date": "2026-09-29T00:00:00+00:00",
+      "summary": "每一次生产，都该成为下一次智能升级的起点。\n作者｜田思奇\n编辑｜栗子\n制造业从来都不缺数据。\n二十年数字化建设，让研发、生产、质量管控和供应链沉淀了海量记录。过去，这些数据大多服务于流程管理、事后追溯与统计分析。但到了2026年，AI使用数据的方式正在发生变化。\n上周的云栖大会主论坛上，阿里巴巴集团CEO吴泳铭把长程任务、自我迭代和多模态放到了机器智能继续演进的重要位置。他提到，模型正在从真实任务和反馈中发现短板、构建数据、评价结果，并进一步推动自身进化。谈到多模态时，他强调“一个足够聪明的大脑还不够”。AI还需要获得更强的感知和交互能力。\n这和今年科技行业最热的Physical AI形成呼应",
       "has_full_text": true
     },
     {
